@@ -2,33 +2,33 @@
 #EXTINF:-1 tvg-id="1" tvg-name="BTV National" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" tvg-chno="1" group-title="AynaOTT (BDIX TV 24)",BTV National
 http://flbl16.112421.net:8082/4151818/index.m3u8?token=FYCMQWAK8R
 #EXTINF:-1 tvg-id="2" tvg-name="BTV World" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png" tvg-chno="2" group-title="AynaOTT (BDIX TV 24)",BTV World
-https://bpl.techpriyo.com/ayna2.php?id=2|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=supercricket
 #EXTINF:-1 tvg-id="3" tvg-name="Sangshad TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed65f2c1-604f-4858-acd5-066fbd00b8ce_180x180_3cbdd15a-53f2-463c-a082-d1e9b1ee74aa.png" tvg-chno="3" group-title="AynaOTT (BDIX TV 24)",Sangshad TV
-https://bpl.techpriyo.com/ayna2.php?id=3|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=bbtsp2
 #EXTINF:-1 tvg-id="4" tvg-name="BTV Chattogram" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3726c298-6651-4139-a505-97fe9ee96430_180x180_47fc05ff-db30-4653-b445-57156643f9ce.png" tvg-chno="4" group-title="AynaOTT (BDIX TV 24)",BTV Chattogram
-https://bpl.techpriyo.com/ayna2.php?id=4|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=bbtsp1
 #EXTINF:-1 tvg-id="5" tvg-name="Bangla Vision" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae1abdc0-299e-4e38-a379-03cf02755414_180x180_f8b871aa-e538-4f02-a877-e30c966dbc30.png" tvg-chno="5" group-title="AynaOTT (BDIX TV 24)",Bangla Vision
-https://bpl.techpriyo.com/ayna2.php?id=5|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="6" tvg-name="Channel I" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e27d57d3-f17e-4e40-9cb4-7d5f1d577bda_180x180_0246741d-c4e5-4cad-967c-3ddbb5696260.png" tvg-chno="6" group-title="AynaOTT (BDIX TV 24)",Channel I
-https://bpl.techpriyo.com/ayna2.php?id=6|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=willowextra
+#EXTINF:-1 tvg-id="6" tvg-name="Channel I" tvg-country="IN" tvg-logo="https://play-lh.googleusercontent.com/fmz6L0mlFDCRRudZ01RUk_DOLF6ITxEyRYysb2DRDp-mhle4cnsyi5QGF00tSNjPR_B2", Willow Cricket
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=willowusa
 #EXTINF:-1 tvg-id="7" tvg-name="Ekushey TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png" tvg-chno="7" group-title="AynaOTT (BDIX TV 24)",Ekushey TV
-https://bpl.techpriyo.com/ayna2.php?id=7|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=fox50
 #EXTINF:-1 tvg-id="8" tvg-name="NTV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7624c47-6598-4b68-9833-7102579ab0e0_180x180_a9967873-d8e5-4ce9-965c-a353761dc150.png" tvg-chno="8" group-title="AynaOTT (BDIX TV 24)",NTV
-https://bpl.techpriyo.com/ayna2.php?id=8|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
+https://api.flixtronic.top/sportszx/cric/master.m3u8?id=tenspk
 #EXTINF:-1 tvg-id="9" tvg-name="ATN Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9c9b0d26-e64e-4ec8-abe6-562390b00b85_180x180_18e8601b-aa29-4df7-9c76-370ec81b70c4.png" tvg-chno="9" group-title="AynaOTT (BDIX TV 24)",ATN Bangla
-https://bpl.techpriyo.com/ayna2.php?id=9|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
+http://103.174.236.113:9981/playlist/channels.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="Boishakhi TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png" tvg-chno="10" group-title="AynaOTT (BDIX TV 24)",Boishakhi TV
-https://bpl.techpriyo.com/ayna2.php?id=10|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
+https://8r1fp7ro6am.a.trbcdn.net/SportTV5/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="Maasranga TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1426078c-f33c-4451-b2e3-73f6a6a5787e_180x180_45a97962-9bbb-4b3b-b589-6012ecd68599.png" tvg-chno="11" group-title="AynaOTT (BDIX TV 24)",Maasranga TV
-https://bpl.techpriyo.com/ayna2.php?id=11|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
+https://8r1fp7ro6am.a.trbcdn.net/SportTV6/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="Desh TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7d1b157d-c68d-4e28-99b3-4e73ce0a6390_180x180_ddc72b39-a2e7-454e-b853-7eb9cd8a6729.png" tvg-chno="12" group-title="AynaOTT (BDIX TV 24)",Desh TV
-https://bpl.techpriyo.com/ayna2.php?id=12|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
+https://8r1fp7ro6am.a.trbcdn.net/SportTV4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="My TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a259cc0d-630a-4ed1-b6d6-1d4006ed4815_180x180_49e7eff6-56c8-4b4b-8181-e2c14e4426c4.png" tvg-chno="13" group-title="AynaOTT (BDIX TV 24)",My TV
-https://bpl.techpriyo.com/ayna2.php?id=13|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
+https://8r1fp7ro6am.a.trbcdn.net/SportTV3/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="ATN News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a41f0388-395e-47ec-9db8-477a3fd09d05_180x180_95c38a1d-7287-4c2d-83fe-e2536874e546.png" tvg-chno="14" group-title="AynaOTT (BDIX TV 24)",ATN News
-https://bpl.techpriyo.com/ayna2.php?id=14|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
+https://8r1fp7ro6am.a.trbcdn.net/SportTV1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="Mohona TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/358c5626-ce3c-4788-ad82-be5c77596b88_180x180_47579c04-9261-4973-b128-310e87592def.png" tvg-chno="15" group-title="AynaOTT (BDIX TV 24)",Mohona TV
-https://bpl.techpriyo.com/ayna2.php?id=15|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
+https://8r1fp7ro6am.a.trbcdn.net/SportTV4/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="Bijoy TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cedb767c-a1df-4c51-b159-684bc77f03aa_180x180_fbdee68d-a9aa-4cd7-9302-7f30fca5158d.png" tvg-chno="16" group-title="AynaOTT (BDIX TV 24)",Bijoy TV
 https://bpl.techpriyo.com/ayna2.php?id=16|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
 #EXTINF:-1 tvg-id="17" tvg-name="Somoy News TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2b7e4021-ff6b-4fb3-8a6e-36ff4388086d_180x180_8e4e88aa-10c0-4c91-8465-9c2ddad8b6e8.png" tvg-chno="17" group-title="AynaOTT (BDIX TV 24)",Somoy News TV

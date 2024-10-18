@@ -1,457 +1,783 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="BTV National" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" tvg-chno="1" group-title="AynaOTT (BDIX TV 24)",BTV National
-http://flbl16.112421.net:8082/4151818/index.m3u8?token=FYCMQWAK8R
-#EXTINF:-1 tvg-id="2" tvg-name="BTV World" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png" tvg-chno="2" group-title="AynaOTT (BDIX TV 24)",BTV World
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=supercricket
-#EXTINF:-1 tvg-id="3" tvg-name="Sangshad TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed65f2c1-604f-4858-acd5-066fbd00b8ce_180x180_3cbdd15a-53f2-463c-a082-d1e9b1ee74aa.png" tvg-chno="3" group-title="AynaOTT (BDIX TV 24)",Sangshad TV
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=bbtsp2
-#EXTINF:-1 tvg-id="4" tvg-name="BTV Chattogram" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3726c298-6651-4139-a505-97fe9ee96430_180x180_47fc05ff-db30-4653-b445-57156643f9ce.png" tvg-chno="4" group-title="AynaOTT (BDIX TV 24)",BTV Chattogram
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=bbtsp1
-#EXTINF:-1 tvg-id="5" tvg-name="Bangla Vision" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae1abdc0-299e-4e38-a379-03cf02755414_180x180_f8b871aa-e538-4f02-a877-e30c966dbc30.png" tvg-chno="5" group-title="AynaOTT (BDIX TV 24)",Bangla Vision
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=willowextra
-#EXTINF:-1 tvg-id="6" tvg-name="Channel I" tvg-country="IN" tvg-logo="https://play-lh.googleusercontent.com/fmz6L0mlFDCRRudZ01RUk_DOLF6ITxEyRYysb2DRDp-mhle4cnsyi5QGF00tSNjPR_B2", Willow Cricket
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=willowusa
-#EXTINF:-1 tvg-id="7" tvg-name="Ekushey TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9e0dd8a-9f03-4db5-821b-8788851ae0f2_180x180_057b61f7-0964-4dc0-95fd-741551613a6f.png" tvg-chno="7" group-title="AynaOTT (BDIX TV 24)",Ekushey TV
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=fox50
-#EXTINF:-1 tvg-id="8" tvg-name="NTV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7624c47-6598-4b68-9833-7102579ab0e0_180x180_a9967873-d8e5-4ce9-965c-a353761dc150.png" tvg-chno="8" group-title="AynaOTT (BDIX TV 24)",NTV
-https://api.flixtronic.top/sportszx/cric/master.m3u8?id=tenspk
-#EXTINF:-1 tvg-id="9" tvg-name="ATN Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9c9b0d26-e64e-4ec8-abe6-562390b00b85_180x180_18e8601b-aa29-4df7-9c76-370ec81b70c4.png" tvg-chno="9" group-title="AynaOTT (BDIX TV 24)",ATN Bangla
-http://103.174.236.113:9981/playlist/channels.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="Boishakhi TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png" tvg-chno="10" group-title="AynaOTT (BDIX TV 24)",Boishakhi TV
-https://8r1fp7ro6am.a.trbcdn.net/SportTV5/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="Maasranga TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1426078c-f33c-4451-b2e3-73f6a6a5787e_180x180_45a97962-9bbb-4b3b-b589-6012ecd68599.png" tvg-chno="11" group-title="AynaOTT (BDIX TV 24)",Maasranga TV
-https://8r1fp7ro6am.a.trbcdn.net/SportTV6/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="Desh TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7d1b157d-c68d-4e28-99b3-4e73ce0a6390_180x180_ddc72b39-a2e7-454e-b853-7eb9cd8a6729.png" tvg-chno="12" group-title="AynaOTT (BDIX TV 24)",Desh TV
-https://8r1fp7ro6am.a.trbcdn.net/SportTV4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="My TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a259cc0d-630a-4ed1-b6d6-1d4006ed4815_180x180_49e7eff6-56c8-4b4b-8181-e2c14e4426c4.png" tvg-chno="13" group-title="AynaOTT (BDIX TV 24)",My TV
-https://8r1fp7ro6am.a.trbcdn.net/SportTV3/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="ATN News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a41f0388-395e-47ec-9db8-477a3fd09d05_180x180_95c38a1d-7287-4c2d-83fe-e2536874e546.png" tvg-chno="14" group-title="AynaOTT (BDIX TV 24)",ATN News
-https://8r1fp7ro6am.a.trbcdn.net/SportTV1/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="Mohona TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/358c5626-ce3c-4788-ad82-be5c77596b88_180x180_47579c04-9261-4973-b128-310e87592def.png" tvg-chno="15" group-title="AynaOTT (BDIX TV 24)",Mohona TV
-https://8r1fp7ro6am.a.trbcdn.net/SportTV4/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="Bijoy TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cedb767c-a1df-4c51-b159-684bc77f03aa_180x180_fbdee68d-a9aa-4cd7-9302-7f30fca5158d.png" tvg-chno="16" group-title="AynaOTT (BDIX TV 24)",Bijoy TV
-https://bpl.techpriyo.com/ayna2.php?id=16|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="17" tvg-name="Somoy News TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2b7e4021-ff6b-4fb3-8a6e-36ff4388086d_180x180_8e4e88aa-10c0-4c91-8465-9c2ddad8b6e8.png" tvg-chno="17" group-title="AynaOTT (BDIX TV 24)",Somoy News TV
-https://bpl.techpriyo.com/ayna2.php?id=17|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="18" tvg-name="Gazi TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2f2ba44d-d6a4-4ec3-9d32-6330d9290ed9_180x180_Gtv.jpg" tvg-chno="18" group-title="AynaOTT (BDIX TV 24)",Gazi TV
-https://bpl.techpriyo.com/ayna2.php?id=18|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="19" tvg-name="Gazi TV HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2617e1b9-31fa-47ab-a3d7-9880e757a93c_180x180_gazi_tv.png" tvg-chno="19" group-title="AynaOTT (BDIX TV 24)",Gazi TV HD
-https://bpl.techpriyo.com/ayna2.php?id=19|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="20" tvg-name="Channel 9" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9904a2b8-33ea-4fb8-88de-9d6563252bf9_180x180_43989ac5-a3a3-48a4-b628-de8f0815a8fc.png" tvg-chno="20" group-title="AynaOTT (BDIX TV 24)",Channel 9
-https://bpl.techpriyo.com/ayna2.php?id=20|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="21" tvg-name="Channel 24" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1a6ad6ed-400c-45a2-91e0-c98e36546b6b_180x180_29254c7a-99b4-4c0a-b861-3cbebaadfcfc.png" tvg-chno="21" group-title="AynaOTT (BDIX TV 24)",Channel 24
-https://bpl.techpriyo.com/ayna2.php?id=21|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="22" tvg-name="Gaan Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7927c5b9-8dfd-4cbf-b9d6-bbd3e90a4eb1_180x180_3c294836-ce5c-46e2-b2e1-c9b4b9783997.png" tvg-chno="22" group-title="AynaOTT (BDIX TV 24)",Gaan Bangla
-https://bpl.techpriyo.com/ayna2.php?id=22|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="23" tvg-name="Ekattor TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dc95386d-f418-4c84-bd9f-7d1442fba3f2_180x180_f4cf8821-b1d1-44c5-b35f-c95d1e054aac.png" tvg-chno="23" group-title="AynaOTT (BDIX TV 24)",Ekattor TV
-https://bpl.techpriyo.com/ayna2.php?id=23|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="24" tvg-name="Asian TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" tvg-chno="24" group-title="AynaOTT (BDIX TV 24)",Asian TV
-https://bpl.techpriyo.com/ayna2.php?id=24|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="25" tvg-name="SA TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/84a0fb8c-85cf-4d12-8504-8f9050437def_180x180_dbfdc900-49fd-4129-9575-ad0f08105fd4.png" tvg-chno="25" group-title="AynaOTT (BDIX TV 24)",SA TV
-https://bpl.techpriyo.com/ayna2.php?id=25|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="26" tvg-name="Jamuna TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f9214b86-4bb5-47e9-9488-adb2bd14bf27_180x180_8b1db7bb-4597-4257-8846-567df3961cc2.png" tvg-chno="26" group-title="AynaOTT (BDIX TV 24)",Jamuna TV
-https://bpl.techpriyo.com/ayna2.php?id=26|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="27" tvg-name="T Sports HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" tvg-chno="27" group-title="AynaOTT (BDIX TV 24)",T Sports HD
-https://bpl.techpriyo.com/ayna2.php?id=27|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="28" tvg-name="T Sports" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png" tvg-chno="28" group-title="AynaOTT (BDIX TV 24)",T Sports
-https://bpl.techpriyo.com/ayna2.php?id=28|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="29" tvg-name="DBC News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f71d343e-e574-4599-bed6-f622c2a6b741_180x180_0fb5d763-281f-4ed3-8c05-62aa33dfd0c2.png" tvg-chno="29" group-title="AynaOTT (BDIX TV 24)",DBC News
-https://bpl.techpriyo.com/ayna2.php?id=29|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="30" tvg-name="News 24" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f31caca9-3389-4331-a693-ac83c42b4a35_180x180_51796aab-e2a7-4290-b7b3-f0c3870de87a.png" tvg-chno="30" group-title="AynaOTT (BDIX TV 24)",News 24
-https://bpl.techpriyo.com/ayna2.php?id=30|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="31" tvg-name="Bangla TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e44d6140-a2c6-4528-a7d3-09d0a5337423_180x180_89fc9e6f-b77b-4bde-90f8-865c243422d6.png" tvg-chno="31" group-title="AynaOTT (BDIX TV 24)",Bangla TV
-https://bpl.techpriyo.com/ayna2.php?id=31|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="32" tvg-name="Nexus TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0f3e0290-14e1-44ae-9cec-fcd95f23aa41_180x180_ba9a1b16-535c-4c1d-9ebf-2c94df27d585.png" tvg-chno="32" group-title="AynaOTT (BDIX TV 24)",Nexus TV
-https://bpl.techpriyo.com/ayna2.php?id=32|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="33" tvg-name="Ananda TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/031f5666-bb13-46a0-abed-78b9122d5e76_180x180_bf19e14b-eea7-4d4b-a0b2-a3ba76d2944c.png" tvg-chno="33" group-title="AynaOTT (BDIX TV 24)",Ananda TV
-https://bpl.techpriyo.com/ayna2.php?id=33|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="34" tvg-name="Global TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ef7244ea-1f07-41bb-82e8-d81a2d12ac81_180x180_global-tv.jpg" tvg-chno="34" group-title="AynaOTT (BDIX TV 24)",Global TV
-https://bpl.techpriyo.com/ayna2.php?id=34|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="35" tvg-name="Green TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/48e398dd-50d4-40b0-8e26-4a5170faf8c6_180x180_greentv.png" tvg-chno="35" group-title="AynaOTT (BDIX TV 24)",Green TV
-https://bpl.techpriyo.com/ayna2.php?id=35|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="36" tvg-name="Duronto TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/155cef49-2209-474b-b882-2618ab44a109_180x180_duronto.png" tvg-chno="36" group-title="AynaOTT (BDIX TV 24)",Duronto TV
-https://bpl.techpriyo.com/ayna2.php?id=36|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="37" tvg-name="IQRA Bangla TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/39b2a216-5975-4f18-99c1-8404a28a046c_180x180_iqrabangla.jpg" tvg-chno="37" group-title="AynaOTT (BDIX TV 24)",IQRA Bangla TV
-https://bpl.techpriyo.com/ayna2.php?id=37|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="38" tvg-name="Sangeet Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/89ad8138-b397-4f95-831a-4b2e77e7843c_180x180_songit-bangla.jpg" tvg-chno="38" group-title="AynaOTT (BDIX TV 24)",Sangeet Bangla
-https://bpl.techpriyo.com/ayna2.php?id=38|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="39" tvg-name="B4U Music" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c3f68d07-a8e4-4a87-a0c2-27f2fccc2fe4_180x180_B4U_Music_logo2.jpg" tvg-chno="39" group-title="AynaOTT (BDIX TV 24)",B4U Music
-https://bpl.techpriyo.com/ayna2.php?id=39|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="40" tvg-name="Ekhon TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bf319d98-d1a1-4df4-8f42-ee33b342c0d9_180x180_Ekhon-tv.jpg" tvg-chno="40" group-title="AynaOTT (BDIX TV 24)",Ekhon TV
-https://bpl.techpriyo.com/ayna2.php?id=40|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="41" tvg-name="Medibiz TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9d0d7717-911c-4a9f-b90d-ed4ae323d8c8_180x180_medibiztv.jpg" tvg-chno="41" group-title="AynaOTT (BDIX TV 24)",Medibiz TV
-https://bpl.techpriyo.com/ayna2.php?id=41|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="42" tvg-name="Star Sports 1 HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f628edc7-701f-4d64-97eb-623efd39d80f_180x180_Start-Sports-1-hd.jpg" tvg-chno="42" group-title="AynaOTT (BDIX TV 24)",Star Sports 1 HD
-https://bpl.techpriyo.com/ayna2.php?id=42|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="43" tvg-name="Star Sports 2 HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43a3065c-206b-4bac-99bf-be503e9c6008_180x180_Star-Sports-2-HD.jpg" tvg-chno="43" group-title="AynaOTT (BDIX TV 24)",Star Sports 2 HD
-https://bpl.techpriyo.com/ayna2.php?id=43|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="44" tvg-name="History Channel" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg" tvg-chno="44" group-title="AynaOTT (BDIX TV 24)",History Channel
-https://bpl.techpriyo.com/ayna2.php?id=44|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="45" tvg-name="Sports 18" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22a8244f-9923-497a-a626-768cdd2d4d3c_180x180_sports-18.jpg" tvg-chno="45" group-title="AynaOTT (BDIX TV 24)",Sports 18
-https://bpl.techpriyo.com/ayna2.php?id=45|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="46" tvg-name="DD Sports" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/33a51469-decc-4dfc-bc47-3542fdc68e63_180x180_dd-sports-logo.jpg" tvg-chno="46" group-title="AynaOTT (BDIX TV 24)",DD Sports
-https://bpl.techpriyo.com/ayna2.php?id=46|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="47" tvg-name="PTV Sports" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg" tvg-chno="47" group-title="AynaOTT (BDIX TV 24)",PTV Sports
-https://bpl.techpriyo.com/ayna2.php?id=47|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="48" tvg-name="Star Sport Select 1" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6026347a-4c2a-455b-b69a-f637140551a8_180x180_Star_Sports_Select_1.jpg" tvg-chno="48" group-title="AynaOTT (BDIX TV 24)",Star Sport Select 1
-https://bpl.techpriyo.com/ayna2.php?id=48|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="49" tvg-name="Star Sport Select 2" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/602dbebc-c520-44d4-ae57-e4459589a4f9_180x180_Star_Sports_Select_2.jpg" tvg-chno="49" group-title="AynaOTT (BDIX TV 24)",Star Sport Select 2
-https://bpl.techpriyo.com/ayna2.php?id=49|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="50" tvg-name="MTV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed9ba281-9ef1-4b8d-bcac-d769c8f9b113_180x180_m-tv.jpg" tvg-chno="50" group-title="AynaOTT (BDIX TV 24)",MTV
-https://bpl.techpriyo.com/ayna2.php?id=50|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="51" tvg-name="Geo Super" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c12281c3-5258-4cce-a634-ef111acc28ee_180x180_geo-super.jpg" tvg-chno="51" group-title="AynaOTT (BDIX TV 24)",Geo Super
-https://bpl.techpriyo.com/ayna2.php?id=51|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="52" tvg-name="Discovery Kids" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/63d49539-a30b-4326-8848-2af69fb58f92_180x180_discovery_kids.jpg" tvg-chno="52" group-title="AynaOTT (BDIX TV 24)",Discovery Kids
-https://bpl.techpriyo.com/ayna2.php?id=52|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="53" tvg-name="Discovery Turbo" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d17be1e7-11c4-43a1-867b-7dd28f5b2206_180x180_discovery_turbo.jpg" tvg-chno="53" group-title="AynaOTT (BDIX TV 24)",Discovery Turbo
-https://bpl.techpriyo.com/ayna2.php?id=53|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="54" tvg-name="Discovery Science" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dcf6b676-d031-494b-a9e7-ab2b6cda341b_180x180_discovery_science.jpg" tvg-chno="54" group-title="AynaOTT (BDIX TV 24)",Discovery Science
-https://bpl.techpriyo.com/ayna2.php?id=54|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="55" tvg-name="Animal Planet HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cb8043b5-b057-4b08-8389-970f9225cdd9_180x180_animal_planet_hd.jpg" tvg-chno="55" group-title="AynaOTT (BDIX TV 24)",Animal Planet HD
-https://bpl.techpriyo.com/ayna2.php?id=55|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="56" tvg-name="Investigation Discovery HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8bedeba5-f94a-40a8-8bbc-06e57e0573ec_180x180_id_hd_source.jpg" tvg-chno="56" group-title="AynaOTT (BDIX TV 24)",Investigation Discovery HD
-https://bpl.techpriyo.com/ayna2.php?id=56|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="57" tvg-name="TLC HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22141bbd-fe65-49fe-891c-a34ec424b13a_180x180_tlc_hd_source.jpg" tvg-chno="57" group-title="AynaOTT (BDIX TV 24)",TLC HD
-https://bpl.techpriyo.com/ayna2.php?id=57|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="58" tvg-name="Discovery HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d96db255-0334-46e3-a576-030b50e38413_180x180_discovery_hd.jpg" tvg-chno="58" group-title="AynaOTT (BDIX TV 24)",Discovery HD
-https://bpl.techpriyo.com/ayna2.php?id=58|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="59" tvg-name="Aljazeera News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1ffb3fa3-7270-45e1-8cf7-4542db428670_180x180_Aljazeera.jpg" tvg-chno="59" group-title="AynaOTT (BDIX TV 24)",Aljazeera News
-https://bpl.techpriyo.com/ayna2.php?id=59|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="60" tvg-name="DW" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/87699afe-b92e-4e1b-bd94-dbafed7906cf_180x180_DWEnglishHD.jpg" tvg-chno="60" group-title="AynaOTT (BDIX TV 24)",DW
-https://bpl.techpriyo.com/ayna2.php?id=60|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="61" tvg-name="NHK World Japan" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8250eb1a-8fad-49c4-aa58-f4ade024f8ac_180x180_NHK.jpg" tvg-chno="61" group-title="AynaOTT (BDIX TV 24)",NHK World Japan
-https://bpl.techpriyo.com/ayna2.php?id=61|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="62" tvg-name="TRT World" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3c1364d9-36a7-4664-8a3a-f13c5a7db212_180x180_TRT.jpg" tvg-chno="62" group-title="AynaOTT (BDIX TV 24)",TRT World
-https://bpl.techpriyo.com/ayna2.php?id=62|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="63" tvg-name="CNN" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b9b1fb7d-7434-44e1-b416-1dcd7025c76f_180x180_cnn.jpeg" tvg-chno="63" group-title="AynaOTT (BDIX TV 24)",CNN
-https://bpl.techpriyo.com/ayna2.php?id=63|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="64" tvg-name="BBC News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a4e2e38d-6a60-409e-9419-40b9fd97e29a_180x180_bbcnews.jpeg" tvg-chno="64" group-title="AynaOTT (BDIX TV 24)",BBC News
-https://bpl.techpriyo.com/ayna2.php?id=64|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="65" tvg-name="Cartoon Network" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg" tvg-chno="65" group-title="AynaOTT (BDIX TV 24)",Cartoon Network
-https://bpl.techpriyo.com/ayna2.php?id=65|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="66" tvg-name="PBS Kids" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg" tvg-chno="66" group-title="AynaOTT (BDIX TV 24)",PBS Kids
-https://bpl.techpriyo.com/ayna2.php?id=66|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="67" tvg-name="WION" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e11861ab-2e48-4e53-a2ee-3c8e783fd73e_180x180_Wion.jpg" tvg-chno="67" group-title="AynaOTT (BDIX TV 24)",WION
-https://bpl.techpriyo.com/ayna2.php?id=67|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="68" tvg-name="A Sports" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/25270783-6de5-4ddf-b207-b6376ae989bc_180x180_ASports.jpg" tvg-chno="68" group-title="AynaOTT (BDIX TV 24)",A Sports
-https://bpl.techpriyo.com/ayna2.php?id=68|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="69" tvg-name="HBO" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ca2ecac1-7447-46fe-9921-e6c3e37a8dc9_180x180_hbo.jpg" tvg-chno="69" group-title="AynaOTT (BDIX TV 24)",HBO
-https://bpl.techpriyo.com/ayna2.php?id=69|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="70" tvg-name="Sony YAY" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/975755cc-0c8a-4617-a965-85b1df745445_180x180_SonyYay.jpg" tvg-chno="70" group-title="AynaOTT (BDIX TV 24)",Sony YAY
-https://bpl.techpriyo.com/ayna2.php?id=70|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="71" tvg-name="Sony Max HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1071c4ad-c6ef-4f9c-9f09-8f658bbae1ad_180x180_SonyMAXHD.jpg" tvg-chno="71" group-title="AynaOTT (BDIX TV 24)",Sony Max HD
-https://bpl.techpriyo.com/ayna2.php?id=71|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="72" tvg-name="BBC Earth" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0fe77088-37eb-4a06-b2e3-f62bf2e7103c_180x180_BBCEarth.jpg" tvg-chno="72" group-title="AynaOTT (BDIX TV 24)",BBC Earth
-https://bpl.techpriyo.com/ayna2.php?id=72|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="73" tvg-name="Sony HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/82e072ad-ce59-466f-a0d4-5678d1b8ffac_180x180_SonyHD.jpg" tvg-chno="73" group-title="AynaOTT (BDIX TV 24)",Sony HD
-https://bpl.techpriyo.com/ayna2.php?id=73|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="74" tvg-name="Sony Pix HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0e11c1c4-7fdf-4e97-8826-f62df600ed29_180x180_SonyPIX.jpg" tvg-chno="74" group-title="AynaOTT (BDIX TV 24)",Sony Pix HD
-https://bpl.techpriyo.com/ayna2.php?id=74|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="75" tvg-name="BBC Earth HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/62bf69b2-7839-4177-a3a8-7002505913e9_180x180_SonyBBCEarth.jpg" tvg-chno="75" group-title="AynaOTT (BDIX TV 24)",BBC Earth HD
-https://bpl.techpriyo.com/ayna2.php?id=75|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="76" tvg-name="Sony Ten 1 HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c9354075-e266-4cde-981a-cb4e56e26702_180x180_SonyTenHD.jpg" tvg-chno="76" group-title="AynaOTT (BDIX TV 24)",Sony Ten 1 HD
-https://bpl.techpriyo.com/ayna2.php?id=76|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="77" tvg-name="Sony Sab HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/084d55b0-a736-4bbc-8bd4-d68c0067298e_180x180_SonySABHD.jpg" tvg-chno="77" group-title="AynaOTT (BDIX TV 24)",Sony Sab HD
-https://bpl.techpriyo.com/ayna2.php?id=77|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="78" tvg-name="Sony WAH" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/074ede35-9396-4470-a0cd-e350f5e351f3_180x180_SonyWah.jpg" tvg-chno="78" group-title="AynaOTT (BDIX TV 24)",Sony WAH
-https://bpl.techpriyo.com/ayna2.php?id=78|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="79" tvg-name="Sony Ten 3 HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a3610f08-d1c2-4881-9d00-d19abdf5e60d_180x180_Ten3HD.jpg" tvg-chno="79" group-title="AynaOTT (BDIX TV 24)",Sony Ten 3 HD
-https://bpl.techpriyo.com/ayna2.php?id=79|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="80" tvg-name="Sony Sab SD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/868feca0-47ae-4d52-819a-2ae110a6dbe2_180x180_SabSD.jpg" tvg-chno="80" group-title="AynaOTT (BDIX TV 24)",Sony Sab SD
-https://bpl.techpriyo.com/ayna2.php?id=80|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="81" tvg-name="Sony SD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f8138214-ceeb-438e-8288-39ebbcbf1944_180x180_SonySD.jpeg" tvg-chno="81" group-title="AynaOTT (BDIX TV 24)",Sony SD
-https://bpl.techpriyo.com/ayna2.php?id=81|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="82" tvg-name="Sony Max 2" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b4f9d6f6-50bb-44ca-8b33-b4a744c796eb_180x180_SonyMAx2.jpg" tvg-chno="82" group-title="AynaOTT (BDIX TV 24)",Sony Max 2
-https://bpl.techpriyo.com/ayna2.php?id=82|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="83" tvg-name="Sony Six" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ff1a8370-4477-43ee-8ad0-15caa7e5bf89_180x180_SonySix.jpeg" tvg-chno="83" group-title="AynaOTT (BDIX TV 24)",Sony Six
-https://bpl.techpriyo.com/ayna2.php?id=83|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="84" tvg-name="Sony Ten 1" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/de2d2947-554f-4c31-932f-de74ae027c80_180x180_Ten1.jpg" tvg-chno="84" group-title="AynaOTT (BDIX TV 24)",Sony Ten 1
-https://bpl.techpriyo.com/ayna2.php?id=84|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="85" tvg-name="Sony Ten 3" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ed43b998-2e56-48bb-8d0e-f81e47d87d7d_180x180_Ten3.jpg" tvg-chno="85" group-title="AynaOTT (BDIX TV 24)",Sony Ten 3
-https://bpl.techpriyo.com/ayna2.php?id=85|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="86" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5aff8a6a-d664-4292-b4e8-8319e42f77a6_180x180_sony-8.jpg" tvg-chno="86" group-title="AynaOTT (BDIX TV 24)",Sony Aath
-https://bpl.techpriyo.com/ayna2.php?id=86|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="87" tvg-name="Sony Pal" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8cbce42b-5a4f-4283-a9c5-6afb64d21824_180x180_sony-pal.jpg" tvg-chno="87" group-title="AynaOTT (BDIX TV 24)",Sony Pal
-https://bpl.techpriyo.com/ayna2.php?id=87|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="88" tvg-name="Sony Ten 2" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b0d554a9-c9ab-42a5-b208-3105872671b9_180x180_Ten-2.jpg" tvg-chno="88" group-title="AynaOTT (BDIX TV 24)",Sony Ten 2
-https://bpl.techpriyo.com/ayna2.php?id=88|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="89" tvg-name="Sony Pix" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/27cc1d7d-db82-480c-82b2-8d033bcbe26f_180x180_sony-pix.jpg" tvg-chno="89" group-title="AynaOTT (BDIX TV 24)",Sony Pix
-https://bpl.techpriyo.com/ayna2.php?id=89|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="90" tvg-name="SET Max" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b04f3f89-0925-4929-98a9-3da5e0d6aaef_180x180_sony-max.jpg" tvg-chno="90" group-title="AynaOTT (BDIX TV 24)",SET Max
-https://bpl.techpriyo.com/ayna2.php?id=90|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="91" tvg-name="Sony Six HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c6cb499c-0f43-4d05-9d25-b9bc25e0c0d9_180x180_sony-six.jpg" tvg-chno="91" group-title="AynaOTT (BDIX TV 24)",Sony Six HD
-https://bpl.techpriyo.com/ayna2.php?id=91|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="92" tvg-name="Ten 2 HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f17b81cb-6339-47a4-9492-71cb68af4be2_180x180_ten-2-hd.jpg" tvg-chno="92" group-title="AynaOTT (BDIX TV 24)",Ten 2 HD
-https://bpl.techpriyo.com/ayna2.php?id=92|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="93" tvg-name="And Pictures HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1e80c84f-32e0-403f-b6fc-3e60c37846d2_180x180_andpictureshd.jpg" tvg-chno="93" group-title="AynaOTT (BDIX TV 24)",And Pictures HD
-https://bpl.techpriyo.com/ayna2.php?id=93|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="94" tvg-name="ZEE Bangla HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/09bff4ab-934e-4b47-bacd-4c24ffaf3047_180x180_zee-bangla-hd.jpg" tvg-chno="94" group-title="AynaOTT (BDIX TV 24)",ZEE Bangla HD
-https://bpl.techpriyo.com/ayna2.php?id=94|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="95" tvg-name="Zee TV HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3b07b67b-8523-4de4-8794-a017129c833e_180x180_zee_tv_HD.jpg" tvg-chno="95" group-title="AynaOTT (BDIX TV 24)",Zee TV HD
-https://bpl.techpriyo.com/ayna2.php?id=95|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="96" tvg-name="Zee Cafe HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/14cdd9d1-e5f3-4c14-80ef-320d6b21591a_180x180_ZeeCafeHD.jpg" tvg-chno="96" group-title="AynaOTT (BDIX TV 24)",Zee Cafe HD
-https://bpl.techpriyo.com/ayna2.php?id=96|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="97" tvg-name="Zee Anmol" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6361f7a0-2736-4e6c-897c-8f70c914a667_180x180_ZeeAnmol.jpg" tvg-chno="97" group-title="AynaOTT (BDIX TV 24)",Zee Anmol
-https://bpl.techpriyo.com/ayna2.php?id=97|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="98" tvg-name="ZEE 24 Ghanta" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" tvg-chno="98" group-title="AynaOTT (BDIX TV 24)",ZEE 24 Ghanta
-https://bpl.techpriyo.com/ayna2.php?id=98|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="99" tvg-name="Zing" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/97fd3820-fe52-40f2-abab-342b55524a15_180x180_zing.jpg" tvg-chno="99" group-title="AynaOTT (BDIX TV 24)",Zing
-https://bpl.techpriyo.com/ayna2.php?id=99|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="100" tvg-name="ZEE News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d60bc970-1f75-4039-b27a-2312650ff03c_180x180_zee-news.jpg" tvg-chno="100" group-title="AynaOTT (BDIX TV 24)",ZEE News
-https://bpl.techpriyo.com/ayna2.php?id=100|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="101" tvg-name="Zee Bollywood" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/130a6d62-da6b-457c-9953-f23a272462a0_180x180_zee-bollywood.jpg" tvg-chno="101" group-title="AynaOTT (BDIX TV 24)",Zee Bollywood
-https://bpl.techpriyo.com/ayna2.php?id=101|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="102" tvg-name="And TV HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fdbce76d-b5f0-42c1-b2e6-63b1c22f0d68_180x180_andtv.jpg" tvg-chno="102" group-title="AynaOTT (BDIX TV 24)",And TV HD
-https://bpl.techpriyo.com/ayna2.php?id=102|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="103" tvg-name="Zee Cinema HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/eac1d5e7-1738-46e5-b5c1-16afe3b579a6_180x180_ZeeCinemaHD.jpg" tvg-chno="103" group-title="AynaOTT (BDIX TV 24)",Zee Cinema HD
-https://bpl.techpriyo.com/ayna2.php?id=103|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="104" tvg-name="Zee Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/92a89f33-066e-40b2-b931-7d8b0c211997_180x180_zee-bangla-logo.jpg" tvg-chno="104" group-title="AynaOTT (BDIX TV 24)",Zee Bangla
-https://bpl.techpriyo.com/ayna2.php?id=104|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="105" tvg-name="Colors Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7c428efd-1f33-4982-9717-c74e123dcfb3_180x180_ColorsBangla.jpg" tvg-chno="105" group-title="AynaOTT (BDIX TV 24)",Colors Bangla
-https://bpl.techpriyo.com/ayna2.php?id=105|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="106" tvg-name="Colors HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8bff83ca-d4d6-4018-aa96-67dc51926f68_180x180_ColorsHD.jpg" tvg-chno="106" group-title="AynaOTT (BDIX TV 24)",Colors HD
-https://bpl.techpriyo.com/ayna2.php?id=106|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="107" tvg-name="Zee Buisness" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e4230e20-1845-41b1-b64a-4161bd1c34d0_180x180_ZeeBuisness.jpg" tvg-chno="107" group-title="AynaOTT (BDIX TV 24)",Zee Buisness
-https://bpl.techpriyo.com/ayna2.php?id=107|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="108" tvg-name="beIN SPORTS" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bfaf7d94-6ea7-48db-bc96-85d712f2e794_180x180_bein-sports.jpg" tvg-chno="108" group-title="AynaOTT (BDIX TV 24)",beIN SPORTS
-https://bpl.techpriyo.com/ayna2.php?id=108|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="109" tvg-name="Zee Action" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/685d5255-141f-454b-ae42-1e9a9bf4cfdb_180x180_zee-action.jpg" tvg-chno="109" group-title="AynaOTT (BDIX TV 24)",Zee Action
-https://bpl.techpriyo.com/ayna2.php?id=109|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="110" tvg-name="BabyTV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c8f01034-f179-4636-a32c-5eab0f846cfb_180x180_baby-tv.jpg" tvg-chno="110" group-title="AynaOTT (BDIX TV 24)",BabyTV
-https://bpl.techpriyo.com/ayna2.php?id=110|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="111" tvg-name="BBC America" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/04beb23e-79be-4811-bb3f-b9651a6e7ce0_180x180_bbc-america.jpg" tvg-chno="111" group-title="AynaOTT (BDIX TV 24)",BBC America
-https://bpl.techpriyo.com/ayna2.php?id=111|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="112" tvg-name="Bloomberg TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/987a4d18-c0f7-48d4-98b5-c50b25c54887_180x180_bloomerg.jpg" tvg-chno="112" group-title="AynaOTT (BDIX TV 24)",Bloomberg TV
-https://bpl.techpriyo.com/ayna2.php?id=112|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="113" tvg-name="Willow HD TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ff657e36-0381-458c-9b05-a4ed836dd2f7_180x180_willow-hd.jpg" tvg-chno="113" group-title="AynaOTT (BDIX TV 24)",Willow HD TV
-https://bpl.techpriyo.com/ayna2.php?id=113|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="114" tvg-name="ESPN" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ea8bc3c2-f633-456b-a904-cc6490e6f612_180x180_espen.jpg" tvg-chno="114" group-title="AynaOTT (BDIX TV 24)",ESPN
-https://bpl.techpriyo.com/ayna2.php?id=114|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="115" tvg-name="TSN 1" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/31c7fb1d-b7ac-4510-8d59-29fb43a13bef_180x180_tsn-1.jpg" tvg-chno="115" group-title="AynaOTT (BDIX TV 24)",TSN 1
-https://bpl.techpriyo.com/ayna2.php?id=115|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="116" tvg-name="TSN 2" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/40070bbd-e02c-470b-8a1d-1c66e8368de1_180x180_tsn-2.jpg" tvg-chno="116" group-title="AynaOTT (BDIX TV 24)",TSN 2
-https://bpl.techpriyo.com/ayna2.php?id=116|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="117" tvg-name="TSN 3" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5b4aa44d-900f-4aff-9aed-c3a611b8a604_180x180_tsn-3.jpg" tvg-chno="117" group-title="AynaOTT (BDIX TV 24)",TSN 3
-https://bpl.techpriyo.com/ayna2.php?id=117|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="118" tvg-name="BT Sport 1" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/90c3d709-cc88-4829-9e2c-913f5382e8cf_180x180_BTSPORT_01.png" tvg-chno="118" group-title="AynaOTT (BDIX TV 24)",BT Sport 1
-https://bpl.techpriyo.com/ayna2.php?id=118|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="119" tvg-name="BT Sport 2" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1a55c207-10b6-47c7-8b0f-9e4d2c2583ff_180x180_BTSPORT02.png" tvg-chno="119" group-title="AynaOTT (BDIX TV 24)",BT Sport 2
-https://bpl.techpriyo.com/ayna2.php?id=119|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="120" tvg-name="Fox Sports 1" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/76a78687-7397-4b2e-9a6b-106970512218_180x180_FoxSports1.jpg" tvg-chno="120" group-title="AynaOTT (BDIX TV 24)",Fox Sports 1
-https://bpl.techpriyo.com/ayna2.php?id=120|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="121" tvg-name="Fox Sports 2" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/43547f2b-abd9-4df5-abe6-ad76dd740d05_180x180_fox-sports-2.jpg" tvg-chno="121" group-title="AynaOTT (BDIX TV 24)",Fox Sports 2
-https://bpl.techpriyo.com/ayna2.php?id=121|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="122" tvg-name="Movie live" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b515749e-6654-483d-b7dc-8c84cb4cedbe_180x180_Movielive.jpg" tvg-chno="122" group-title="AynaOTT (BDIX TV 24)",Movie live
-https://bpl.techpriyo.com/ayna2.php?id=122|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="123" tvg-name="Mastiii Music" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/23d62738-4814-4577-9d95-5fdb1a5895a6_180x180_Masti-music.jpg" tvg-chno="123" group-title="AynaOTT (BDIX TV 24)",Mastiii Music
-https://bpl.techpriyo.com/ayna2.php?id=123|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="124" tvg-name="9XM" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/854a9ced-0949-4199-b4eb-f6705d505485_180x180_9xm.jpg" tvg-chno="124" group-title="AynaOTT (BDIX TV 24)",9XM
-https://bpl.techpriyo.com/ayna2.php?id=124|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="125" tvg-name="9x Jalwa" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0893ba89-d5d2-4c32-92fb-a36bbccbb52d_180x180_9x-jalwa.jpg" tvg-chno="125" group-title="AynaOTT (BDIX TV 24)",9x Jalwa
-https://bpl.techpriyo.com/ayna2.php?id=125|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="126" tvg-name="Nickelodeon" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png" tvg-chno="126" group-title="AynaOTT (BDIX TV 24)",Nickelodeon
-https://bpl.techpriyo.com/ayna2.php?id=126|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="127" tvg-name="Fox News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8f6cc61a-16f1-4f25-94bb-d525a550c598_180x180_fox-news.jpg" tvg-chno="127" group-title="AynaOTT (BDIX TV 24)",Fox News
-https://bpl.techpriyo.com/ayna2.php?id=127|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="128" tvg-name="Travel XP" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ad324d5e-84be-44b0-b8d8-f227a0ac1bf2_180x180_travelxp.jpg" tvg-chno="128" group-title="AynaOTT (BDIX TV 24)",Travel XP
-https://bpl.techpriyo.com/ayna2.php?id=128|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="129" tvg-name="MSNBC News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e8c38849-1fc2-4809-9faa-abb782d3a4f5_180x180_msnbc.jpg" tvg-chno="129" group-title="AynaOTT (BDIX TV 24)",MSNBC News
-https://bpl.techpriyo.com/ayna2.php?id=129|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="130" tvg-name="Astro Cricket HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b501b56a-47a1-452b-bf2d-0cb8d41da761_180x180_astro-cricket.jpg" tvg-chno="130" group-title="AynaOTT (BDIX TV 24)",Astro Cricket HD
-https://bpl.techpriyo.com/ayna2.php?id=130|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="131" tvg-name="Food Network" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/61143c93-e030-451d-a1b7-c5dff998f972_180x180_food-network.jpg" tvg-chno="131" group-title="AynaOTT (BDIX TV 24)",Food Network
-https://bpl.techpriyo.com/ayna2.php?id=131|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="132" tvg-name="Makkah Live" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ac1bb7a4-7677-4f35-afc5-2ca62dd4dde3_180x180_Makkahlive.jpeg" tvg-chno="132" group-title="AynaOTT (BDIX TV 24)",Makkah Live
-https://bpl.techpriyo.com/ayna2.php?id=132|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="133" tvg-name="Madina Live" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/02f80ef0-e262-4b63-a61b-19c4a4bbf297_180x180_madinalive.jpeg" tvg-chno="133" group-title="AynaOTT (BDIX TV 24)",Madina Live
-https://bpl.techpriyo.com/ayna2.php?id=133|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="134" tvg-name="9x Jhakaas" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/432a34b3-9f47-410d-b3b8-bbd45e608faa_180x180_9xjhakaas.jpg" tvg-chno="134" group-title="AynaOTT (BDIX TV 24)",9x Jhakaas
-https://bpl.techpriyo.com/ayna2.php?id=134|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="135" tvg-name="Aakaash 8" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7b18800-7965-4246-9167-3a575869f224_180x180_akash8.jpg" tvg-chno="135" group-title="AynaOTT (BDIX TV 24)",Aakaash 8
-https://bpl.techpriyo.com/ayna2.php?id=135|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="136" tvg-name="Dhoom Music Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fcf291bf-4f31-4e60-bd97-3973f71eb5c9_180x180_dhoom_Music_bangla.jpg" tvg-chno="136" group-title="AynaOTT (BDIX TV 24)",Dhoom Music Bangla
-https://bpl.techpriyo.com/ayna2.php?id=136|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="137" tvg-name="Dillagiii" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f90f1cfd-8097-45c5-9f05-59b48b781788_180x180_Dillagiii.jpg" tvg-chno="137" group-title="AynaOTT (BDIX TV 24)",Dillagiii
-https://bpl.techpriyo.com/ayna2.php?id=137|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="138" tvg-name="HiDost" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/eea9f96b-0057-4d98-bb59-e5cfc26ae331_180x180_hidosto.png" tvg-chno="138" group-title="AynaOTT (BDIX TV 24)",HiDost
-https://bpl.techpriyo.com/ayna2.php?id=138|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="139" tvg-name="Manoranjan Movies" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/edc0febf-a0d8-426a-ae2a-cea3ec66670f_180x180_Manoranjan-Movies.jpg" tvg-chno="139" group-title="AynaOTT (BDIX TV 24)",Manoranjan Movies
-https://bpl.techpriyo.com/ayna2.php?id=139|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="140" tvg-name="Music India" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/33740b02-58ee-44ae-b67c-11b14e1fc997_180x180_MusicIndia.png" tvg-chno="140" group-title="AynaOTT (BDIX TV 24)",Music India
-https://bpl.techpriyo.com/ayna2.php?id=140|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="141" tvg-name="News Time" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/58ad7be2-5d80-4cb1-8da1-20182abecd4d_180x180_News_Time_new_logo.png" tvg-chno="141" group-title="AynaOTT (BDIX TV 24)",News Time
-https://bpl.techpriyo.com/ayna2.php?id=141|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="142" tvg-name="Rplus" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/13a57162-3b9b-459c-9e3c-4c048dee4c46_180x180_rplus.png" tvg-chno="142" group-title="AynaOTT (BDIX TV 24)",Rplus
-https://bpl.techpriyo.com/ayna2.php?id=142|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="143" tvg-name="Anjan TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bb5cf355-0401-4a5a-83e8-bd6e67ae9dcb_180x180_AnjanTV.jpg" tvg-chno="143" group-title="AynaOTT (BDIX TV 24)",Anjan TV
-https://bpl.techpriyo.com/ayna2.php?id=143|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="144" tvg-name="Rupshi Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg" tvg-chno="144" group-title="AynaOTT (BDIX TV 24)",Rupshi Bangla
-https://bpl.techpriyo.com/ayna2.php?id=144|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="145" tvg-name="Rplus Gold" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cc989202-1076-4f87-911f-12a5a2d37d38_180x180_RplusGold.jpg" tvg-chno="145" group-title="AynaOTT (BDIX TV 24)",Rplus Gold
-https://bpl.techpriyo.com/ayna2.php?id=145|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="146" tvg-name="9X Tashan" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/353c48b2-233c-49b0-a221-0bcb57e71500_180x180_9X_Tashan.jpg" tvg-chno="146" group-title="AynaOTT (BDIX TV 24)",9X Tashan
-https://bpl.techpriyo.com/ayna2.php?id=146|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="147" tvg-name="ANB News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae2e9a26-ef7f-469f-889d-0a549803477c_180x180_ANB_News.png" tvg-chno="147" group-title="AynaOTT (BDIX TV 24)",ANB News
-https://bpl.techpriyo.com/ayna2.php?id=147|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="148" tvg-name="B4U Kadak" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e5d7afb9-de43-4094-a551-5ecf02abbfca_180x180_B4U_Kadak.png" tvg-chno="148" group-title="AynaOTT (BDIX TV 24)",B4U Kadak
-https://bpl.techpriyo.com/ayna2.php?id=148|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="149" tvg-name="Dabangg" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5f2600f5-4904-4d27-805e-af5051b8219c_180x180_Dabangg.jpg" tvg-chno="149" group-title="AynaOTT (BDIX TV 24)",Dabangg
-https://bpl.techpriyo.com/ayna2.php?id=149|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="150" tvg-name="Dhamaal" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/86cb6d5f-5903-4442-b682-c6a04539b69d_180x180_Dhamaal.jpg" tvg-chno="150" group-title="AynaOTT (BDIX TV 24)",Dhamaal
-https://bpl.techpriyo.com/ayna2.php?id=150|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="151" tvg-name="Dhinchaak" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/609f4795-77e1-4cfd-8569-151acf2074c7_180x180_Dhinchaak.jpg" tvg-chno="151" group-title="AynaOTT (BDIX TV 24)",Dhinchaak
-https://bpl.techpriyo.com/ayna2.php?id=151|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="152" tvg-name="Goldmines" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" tvg-chno="152" group-title="AynaOTT (BDIX TV 24)",Goldmines
-https://bpl.techpriyo.com/ayna2.php?id=152|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="153" tvg-name="Goldmines Bollywood" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5d3db61b-9d33-47ed-b273-7bb235f14431_180x180_Goldmines_Bollywood.jpg" tvg-chno="153" group-title="AynaOTT (BDIX TV 24)",Goldmines Bollywood
-https://bpl.techpriyo.com/ayna2.php?id=153|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="154" tvg-name="Goldmines Movies" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4f1364dc-dbb0-47df-9a43-3f316b371053_180x180_GoldminesMovies.jpg" tvg-chno="154" group-title="AynaOTT (BDIX TV 24)",Goldmines Movies
-https://bpl.techpriyo.com/ayna2.php?id=154|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="155" tvg-name="Khushboo" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bfb8c366-8efc-42f6-9901-df0fd0884736_180x180_Khushboo.jpg" tvg-chno="155" group-title="AynaOTT (BDIX TV 24)",Khushboo
-https://bpl.techpriyo.com/ayna2.php?id=155|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="156" tvg-name="TheQ" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0b3396bb-5c04-4d7c-bec0-21f586183d54_180x180_TheQ.jpg" tvg-chno="156" group-title="AynaOTT (BDIX TV 24)",TheQ
-https://bpl.techpriyo.com/ayna2.php?id=156|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="157" tvg-name="TV9 Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/164eb222-0c4f-4518-ac47-5be6556c7b6f_180x180_TV9Bangla.jpg" tvg-chno="157" group-title="AynaOTT (BDIX TV 24)",TV9 Bangla
-https://bpl.techpriyo.com/ayna2.php?id=157|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="158" tvg-name="APN" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/76068588-1b12-4c37-8798-eec3edb5c8d0_180x180_APN.jpg" tvg-chno="158" group-title="AynaOTT (BDIX TV 24)",APN
-https://bpl.techpriyo.com/ayna2.php?id=158|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="159" tvg-name="Atrangii TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/572947fd-e8d3-47d5-8c2f-d0dbf561fe4c_180x180_AtrangiiTV.jpg" tvg-chno="159" group-title="AynaOTT (BDIX TV 24)",Atrangii TV
-https://bpl.techpriyo.com/ayna2.php?id=159|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="160" tvg-name="Azzad TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cdeb5007-36d3-4303-8665-bb80ad14086b_180x180_AzzadTv.jpg" tvg-chno="160" group-title="AynaOTT (BDIX TV 24)",Azzad TV
-https://bpl.techpriyo.com/ayna2.php?id=160|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="161" tvg-name="Bflix" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/418f4267-3b10-4e93-97f7-070d61cc5074_180x180_Bflix.jpg" tvg-chno="161" group-title="AynaOTT (BDIX TV 24)",Bflix
-https://bpl.techpriyo.com/ayna2.php?id=161|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="162" tvg-name="Pitaara TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/913f23bc-2d78-4385-b398-8074a77399e5_180x180_pitaara-tv.jpg" tvg-chno="162" group-title="AynaOTT (BDIX TV 24)",Pitaara TV
-https://bpl.techpriyo.com/ayna2.php?id=162|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="163" tvg-name="Dangal" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5a9ed8f5-4ce1-4eef-af5c-d1fdee1105e8_180x180_Dangal.jpg" tvg-chno="163" group-title="AynaOTT (BDIX TV 24)",Dangal
-https://bpl.techpriyo.com/ayna2.php?id=163|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="164" tvg-name="Hindi Khabar" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7d48fbc4-a1cc-4a86-9ca2-dbb8e9a7a8bd_180x180_HindiKhabar.jpg" tvg-chno="164" group-title="AynaOTT (BDIX TV 24)",Hindi Khabar
-https://bpl.techpriyo.com/ayna2.php?id=164|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="165" tvg-name="Dangal 2" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0282be04-fb81-4998-a482-239394a90843_180x180_Dangal2.jpg" tvg-chno="165" group-title="AynaOTT (BDIX TV 24)",Dangal 2
-https://bpl.techpriyo.com/ayna2.php?id=165|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="166" tvg-name="Bharat Samachar" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4fc190f7-7409-4472-b656-54052434068c_180x180_BharatSamachar.jpg" tvg-chno="166" group-title="AynaOTT (BDIX TV 24)",Bharat Samachar
-https://bpl.techpriyo.com/ayna2.php?id=166|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="167" tvg-name="Manoranjan TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5edf259e-dd5f-4e2a-b73e-967fcf4f5603_180x180_as(7).jpeg" tvg-chno="167" group-title="AynaOTT (BDIX TV 24)",Manoranjan TV
-https://bpl.techpriyo.com/ayna2.php?id=167|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="168" tvg-name="Network 10" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/35f741f0-a816-42c4-98cd-53e796deeeeb_180x180_Network10.jpg" tvg-chno="168" group-title="AynaOTT (BDIX TV 24)",Network 10
-https://bpl.techpriyo.com/ayna2.php?id=168|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="169" tvg-name="News 1 India" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5ff0b5e4-2973-4c07-9bed-e00ea995e9d9_180x180_as(6).jpeg" tvg-chno="169" group-title="AynaOTT (BDIX TV 24)",News 1 India
-https://bpl.techpriyo.com/ayna2.php?id=169|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="170" tvg-name="Republic TV Bharat" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7d1e640a-c7e5-4c0e-a439-2d81af7fe933_180x180_as(3).jpeg" tvg-chno="170" group-title="AynaOTT (BDIX TV 24)",Republic TV Bharat
-https://bpl.techpriyo.com/ayna2.php?id=170|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="171" tvg-name="Sadhna Prime News" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3de7a3f5-8fc2-4721-8cc8-48fb787e9ce8_180x180_SadhnaPrimeNews.jpeg" tvg-chno="171" group-title="AynaOTT (BDIX TV 24)",Sadhna Prime News
-https://bpl.techpriyo.com/ayna2.php?id=171|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="172" tvg-name="Shemaroo TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b5457d3c-21fe-4e76-9b42-4dd1f9569439_180x180_as(1).jpeg" tvg-chno="172" group-title="AynaOTT (BDIX TV 24)",Shemaroo TV
-https://bpl.techpriyo.com/ayna2.php?id=172|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="173" tvg-name="E24" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/8d45fd97-55de-4f30-b6e1-0894b4e05dc5_180x180_e24.jpg" tvg-chno="173" group-title="AynaOTT (BDIX TV 24)",E24
-https://bpl.techpriyo.com/ayna2.php?id=173|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="174" tvg-name="India Voice" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/73546ec7-df28-4e64-bb8f-589140cf95e0_180x180_IndiaVoice.jpg" tvg-chno="174" group-title="AynaOTT (BDIX TV 24)",India Voice
-https://bpl.techpriyo.com/ayna2.php?id=174|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="175" tvg-name="News 24" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/aab85a80-8373-4e53-91cf-304a9dd85fed_180x180_News24.jpg" tvg-chno="175" group-title="AynaOTT (BDIX TV 24)",News 24
-https://bpl.techpriyo.com/ayna2.php?id=175|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="176" tvg-name="Taaza TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d5326234-3c66-4b7f-9197-514826f243d1_180x180_TaazaTV.jpg" tvg-chno="176" group-title="AynaOTT (BDIX TV 24)",Taaza TV
-https://bpl.techpriyo.com/ayna2.php?id=176|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="177" tvg-name="Rongeen TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/eb965994-425e-4bb8-b9d8-a73201f132da_180x180_RongeenTV.jpg" tvg-chno="177" group-title="AynaOTT (BDIX TV 24)",Rongeen TV
-https://bpl.techpriyo.com/ayna2.php?id=177|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="178" tvg-name="Shemaroo Umang" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e18f6742-ab93-42b6-8503-73f7235689f1_180x180_ShemarooUmang.jpg" tvg-chno="178" group-title="AynaOTT (BDIX TV 24)",Shemaroo Umang
-https://bpl.techpriyo.com/ayna2.php?id=178|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="179" tvg-name="Afghan TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/10e61c9c-2ca0-4845-a60e-4d826de140eb_180x180_AfghanTV.jpg" tvg-chno="179" group-title="AynaOTT (BDIX TV 24)",Afghan TV
-https://bpl.techpriyo.com/ayna2.php?id=179|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="180" tvg-name="ARY Digital Asia HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/430113ef-93d6-4c9c-964c-bcbde277c3d6_180x180_ARYDigitalAsiaHD.jpg" tvg-chno="180" group-title="AynaOTT (BDIX TV 24)",ARY Digital Asia HD
-https://bpl.techpriyo.com/ayna2.php?id=180|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="181" tvg-name="ARY Musik" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/212f672e-2426-46b3-af8e-42f64114cdee_180x180_ARYMusik.jpg" tvg-chno="181" group-title="AynaOTT (BDIX TV 24)",ARY Musik
-https://bpl.techpriyo.com/ayna2.php?id=181|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="182" tvg-name="ARY News Asia" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e666ec64-9ce0-46d2-a86c-61fced11d54d_180x180_ARYNewsAsia.jpg" tvg-chno="182" group-title="AynaOTT (BDIX TV 24)",ARY News Asia
-https://bpl.techpriyo.com/ayna2.php?id=182|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="183" tvg-name="ARYQ TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dc0a5605-e69b-4bfc-83ad-8fbf9cb19026_180x180_ARYQTV.jpg" tvg-chno="183" group-title="AynaOTT (BDIX TV 24)",ARYQ TV
-https://bpl.techpriyo.com/ayna2.php?id=183|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="184" tvg-name="ARY Zindagi" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5d0ef5ac-a2b3-46b6-add6-9c47155ad8b6_180x180_ARYZindagi.jpg" tvg-chno="184" group-title="AynaOTT (BDIX TV 24)",ARY Zindagi
-https://bpl.techpriyo.com/ayna2.php?id=184|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="185" tvg-name="B4U Movies India" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/35633be0-734d-4c47-92ac-e16f772a013e_180x180_B4U_Movies_India.jpg" tvg-chno="185" group-title="AynaOTT (BDIX TV 24)",B4U Movies India
-https://bpl.techpriyo.com/ayna2.php?id=185|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="186" tvg-name="Movie Today" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/6e35cc54-6ff6-4c58-8a3f-8831c4e5e438_180x180_MovieToday.jpg" tvg-chno="186" group-title="AynaOTT (BDIX TV 24)",Movie Today
-https://bpl.techpriyo.com/ayna2.php?id=186|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="187" tvg-name="NTV Itahari" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/49c41f25-123c-4b20-a009-38f2b5e2ddb4_180x180_NTV_Itahari.jpg" tvg-chno="187" group-title="AynaOTT (BDIX TV 24)",NTV Itahari
-https://bpl.techpriyo.com/ayna2.php?id=187|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="188" tvg-name="B4U Hitz" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a80ad7a8-7541-408b-855c-54003a670c3c_180x180_B4UHitz.jpg" tvg-chno="188" group-title="AynaOTT (BDIX TV 24)",B4U Hitz
-https://bpl.techpriyo.com/ayna2.php?id=188|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="189" tvg-name="Dhamaka Movies" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d872f34a-7fb1-4dc6-8b88-377aeb66fc7d_180x180_DhamakaMovies.jpg" tvg-chno="189" group-title="AynaOTT (BDIX TV 24)",Dhamaka Movies
-https://bpl.techpriyo.com/ayna2.php?id=189|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="190" tvg-name="NTV Kohalpur" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/16b9c914-059d-4bb8-8b6b-dde07b4c4815_180x180_NTV_Kohalpur.jpg" tvg-chno="190" group-title="AynaOTT (BDIX TV 24)",NTV Kohalpur
-https://bpl.techpriyo.com/ayna2.php?id=190|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="191" tvg-name="Bharat 24 Vision OF New India" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b3ab3db9-861e-402f-93f6-2d9f2fe14874_180x180_Bharat24VisionOFNewIndia.png" tvg-chno="191" group-title="AynaOTT (BDIX TV 24)",Bharat 24 Vision OF New India
-https://bpl.techpriyo.com/ayna2.php?id=191|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="192" tvg-name="Food Food TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/01490826-7408-412c-8290-83bab1a58498_180x180_FoodFoodTV.jpeg" tvg-chno="192" group-title="AynaOTT (BDIX TV 24)",Food Food TV
-https://bpl.techpriyo.com/ayna2.php?id=192|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="193" tvg-name="News India 24x7" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ad0a6c3d-08bf-43cc-9b4b-8715a6794c2f_180x180_NewsIndia24x7.jpg" tvg-chno="193" group-title="AynaOTT (BDIX TV 24)",News India 24x7
-https://bpl.techpriyo.com/ayna2.php?id=193|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="194" tvg-name="Republic Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a0f0b6fc-8cc5-4f48-a100-39e25638e9b0_180x180_R_Bangla.jpg" tvg-chno="194" group-title="AynaOTT (BDIX TV 24)",Republic Bangla
-https://bpl.techpriyo.com/ayna2.php?id=194|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="195" tvg-name="Republic TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/95aab5e2-57c6-4370-beff-247721ddcda9_180x180_REPUBLIC_TV.jpg" tvg-chno="195" group-title="AynaOTT (BDIX TV 24)",Republic TV
-https://bpl.techpriyo.com/ayna2.php?id=195|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="196" tvg-name="ABC Spark" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/490de985-246b-4777-93e2-ec05fa40be17_180x180_abcspark.jpg" tvg-chno="196" group-title="AynaOTT (BDIX TV 24)",ABC Spark
-https://bpl.techpriyo.com/ayna2.php?id=196|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="197" tvg-name="TV9 Bhara tvarsh" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57443f37-ea09-4172-8115-b298fcbc6051_180x180_TV9Bharatvarsh.jpg" tvg-chno="197" group-title="AynaOTT (BDIX TV 24)",TV9 Bhara tvarsh
-https://bpl.techpriyo.com/ayna2.php?id=197|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="198" tvg-name="TBS" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4af62437-0055-408a-9971-79747823b76f_180x180_tbs.jpg" tvg-chno="198" group-title="AynaOTT (BDIX TV 24)",TBS
-https://bpl.techpriyo.com/ayna2.php?id=198|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="199" tvg-name="Fox 5" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae57a7fb-496a-4aa0-a27d-596764c3853d_180x180_fox5.jpg" tvg-chno="199" group-title="AynaOTT (BDIX TV 24)",Fox 5
-https://bpl.techpriyo.com/ayna2.php?id=199|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="200" tvg-name="Fox Business" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ba10a6a9-51a7-4d60-bfe8-0038953ca8da_180x180_foxbusiness.jpg" tvg-chno="200" group-title="AynaOTT (BDIX TV 24)",Fox Business
-https://bpl.techpriyo.com/ayna2.php?id=200|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="201" tvg-name="The Weather Channel" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a9efa0a8-e048-4876-8393-50819a3a39ab_180x180_the_weather_cahnnels.jpg" tvg-chno="201" group-title="AynaOTT (BDIX TV 24)",The Weather Channel
-https://bpl.techpriyo.com/ayna2.php?id=201|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="202" tvg-name="Sky Nature" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/3a0ce8e1-8341-420f-8d1f-b4c368c5bfe0_180x180_sky_nature.jpg" tvg-chno="202" group-title="AynaOTT (BDIX TV 24)",Sky Nature
-https://bpl.techpriyo.com/ayna2.php?id=202|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="203" tvg-name="Pix11" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d9cfc49b-8486-41a0-b480-6cde3b82415d_180x180_pix11.png" tvg-chno="203" group-title="AynaOTT (BDIX TV 24)",Pix11
-https://bpl.techpriyo.com/ayna2.php?id=203|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="204" tvg-name="Amc" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0cf612db-b2cb-49ac-9562-a31022de155b_180x180_amc.jpg" tvg-chno="204" group-title="AynaOTT (BDIX TV 24)",Amc
-https://bpl.techpriyo.com/ayna2.php?id=204|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="205" tvg-name="Revolt" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b0fcfe2d-f7b2-40ca-9abe-903a83adc75b_180x180_revolt.jpg" tvg-chno="205" group-title="AynaOTT (BDIX TV 24)",Revolt
-https://bpl.techpriyo.com/ayna2.php?id=205|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="206" tvg-name="axs" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9345333-5c95-43d4-a136-4b6111aee587_180x180_unnamed.png" tvg-chno="206" group-title="AynaOTT (BDIX TV 24)",axs
-https://bpl.techpriyo.com/ayna2.php?id=206|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="207" tvg-name="ytv" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9bf97538-8c4b-47fd-bef6-5038c675c071_180x180_ytv.jpg" tvg-chno="207" group-title="AynaOTT (BDIX TV 24)",ytv
-https://bpl.techpriyo.com/ayna2.php?id=207|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="208" tvg-name="Islam Channel" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/318b1071-9999-4e14-9ea8-29a4e6516475_180x180_islam.jpg" tvg-chno="208" group-title="AynaOTT (BDIX TV 24)",Islam Channel
-https://bpl.techpriyo.com/ayna2.php?id=208|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="209" tvg-name="Kolkata TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a8301b59-aecc-41be-94f0-a98525ce2650_180x180_kolkata.jpg" tvg-chno="209" group-title="AynaOTT (BDIX TV 24)",Kolkata TV
-https://bpl.techpriyo.com/ayna2.php?id=209|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="210" tvg-name="Channel Win" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99ec757a-71e7-4eb6-ad91-e09346180260_180x180_ChannelWin.jpg" tvg-chno="210" group-title="AynaOTT (BDIX TV 24)",Channel Win
-https://bpl.techpriyo.com/ayna2.php?id=210|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="211" tvg-name="Nepal 1" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bf693e4d-26d7-434c-b673-64049c6b0767_180x180_Nepal1.jpeg" tvg-chno="211" group-title="AynaOTT (BDIX TV 24)",Nepal 1
-https://bpl.techpriyo.com/ayna2.php?id=211|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="212" tvg-name="BOL Entertainment Ultra HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/d577f68b-8fcd-4f5e-8619-f1a3d984c744_180x180_bol-entertainment-logo.jpg" tvg-chno="212" group-title="AynaOTT (BDIX TV 24)",BOL Entertainment Ultra HD
-https://bpl.techpriyo.com/ayna2.php?id=212|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="213" tvg-name="Kids Zone HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/547a15ba-1fc4-4a56-95b4-4e48dc433428_180x180_KidsZoneHD-pk.jpg" tvg-chno="213" group-title="AynaOTT (BDIX TV 24)",Kids Zone HD
-https://bpl.techpriyo.com/ayna2.php?id=213|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="214" tvg-name="Saudi TV1 HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/17a12359-25b6-43c1-a167-9262d9dee9a2_180x180_Al_Saudiya_Logo.jpg" tvg-chno="214" group-title="AynaOTT (BDIX TV 24)",Saudi TV1 HD
-https://bpl.techpriyo.com/ayna2.php?id=214|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="215" tvg-name="8XM Music HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/36901ffb-4320-4753-98a3-889763222ee6_180x180_8XM-Music-HD.jpg" tvg-chno="215" group-title="AynaOTT (BDIX TV 24)",8XM Music HD
-https://bpl.techpriyo.com/ayna2.php?id=215|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="216" tvg-name="SSC Sports 1 HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a7cb31b1-b6b4-4ec4-baed-6677124a8959_180x180_SSCSports1HD.jpeg" tvg-chno="216" group-title="AynaOTT (BDIX TV 24)",SSC Sports 1 HD
-https://bpl.techpriyo.com/ayna2.php?id=216|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="217" tvg-name="SSC Extra 1 HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/679f5f4e-64a8-4965-97bc-06bb56997645_180x180_SSCExtra1HD.jpeg" tvg-chno="217" group-title="AynaOTT (BDIX TV 24)",SSC Extra 1 HD
-https://bpl.techpriyo.com/ayna2.php?id=217|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="218" tvg-name="Zee Bangla Cinema" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/794347ed-ed16-4fb7-be30-a78218fb5f85_180x180_ZeeBanglaCinema.jpg" tvg-chno="218" group-title="AynaOTT (BDIX TV 24)",Zee Bangla Cinema
-https://bpl.techpriyo.com/ayna2.php?id=218|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="219" tvg-name="BEST ACTION TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4ad339b5-37f9-4b14-a9b7-43421db1cca0_180x180_BESTACTIONTV.jpg" tvg-chno="219" group-title="AynaOTT (BDIX TV 24)",BEST ACTION TV
-https://bpl.techpriyo.com/ayna2.php?id=219|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="220" tvg-name="BEST THRILLER TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/eeae6144-9072-4c7d-a722-43c21edc7aaa_180x180_BESTTHRILLERTV501.jpg" tvg-chno="220" group-title="AynaOTT (BDIX TV 24)",BEST THRILLER TV
-https://bpl.techpriyo.com/ayna2.php?id=220|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="221" tvg-name="CHRONO TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c69bb6fa-55b7-43e8-b630-de0a52a5fc49_180x180_CHRONOTVcopie.jpg" tvg-chno="221" group-title="AynaOTT (BDIX TV 24)",CHRONO TV
-https://bpl.techpriyo.com/ayna2.php?id=221|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="222" tvg-name="BEANI KIDS TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1b73d516-444f-4004-85a8-239de8409ba3_180x180_KIDS503.jpg" tvg-chno="222" group-title="AynaOTT (BDIX TV 24)",BEANI KIDS TV
-https://bpl.techpriyo.com/ayna2.php?id=222|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="223" tvg-name="KUNG FU+" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9ecbbe8f-e5a2-46a3-9d6c-c76d6e5625b3_180x180_KUNGFU+504.jpg" tvg-chno="223" group-title="AynaOTT (BDIX TV 24)",KUNG FU+
-https://bpl.techpriyo.com/ayna2.php?id=223|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="224" tvg-name="SPORT FISHING TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f6021804-959e-4e8c-9045-b9fbbcd5ce82_180x180_505.jpg" tvg-chno="224" group-title="AynaOTT (BDIX TV 24)",SPORT FISHING TV
-https://bpl.techpriyo.com/ayna2.php?id=224|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="225" tvg-name="PRIME FIGHT HD TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f0ac143c-793e-4589-9d17-1b56958dac39_180x180_PRIMEFIGHT.jpg" tvg-chno="225" group-title="AynaOTT (BDIX TV 24)",PRIME FIGHT HD TV
-https://bpl.techpriyo.com/ayna2.php?id=225|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="226" tvg-name="BABY FIRST" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/c4def3d3-4ef4-4401-bbbe-c6752c3fe48c_180x180_babyfirst_logo_2019.jpg" tvg-chno="226" group-title="AynaOTT (BDIX TV 24)",BABY FIRST
-https://bpl.techpriyo.com/ayna2.php?id=226|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="227" tvg-name="COLOUR BLIND" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4b3b0dbd-2aa1-4c0a-8516-9f4706711a54_180x180_ColourBlind(logo)copie.jpg" tvg-chno="227" group-title="AynaOTT (BDIX TV 24)",COLOUR BLIND
-https://bpl.techpriyo.com/ayna2.php?id=227|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
-#EXTINF:-1 tvg-id="228" tvg-name="BOLLYWOOD 4U" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b81412fe-c4c7-417a-af81-05e7ca8aadc2_180x180_Bollywood4ulogo.jpg" tvg-chno="228" group-title="AynaOTT (BDIX TV 24)",BOLLYWOOD 4U
-https://bpl.techpriyo.com/ayna2.php?id=228|referer=https://watch.aynaott.com/|origin=https://watch.aynaott.com
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/epg.xml"
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="USA (DADDY LIVE)" ,ABC
+https://webhdrunns.mizhls.ru/lb/premium51/index.m3u8
+
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA (DADDY LIVE)" ,A&E
+https://webhdrunns.mizhls.ru/lb/premium302/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="USA (DADDY LIVE)" ,AMC
+https://webhdrunns.mizhls.ru/lb/premium303/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" group-title="USA (DADDY LIVE)" ,Animal Planet
+https://webhdrunns.mizhls.ru/lb/premium304/index.m3u8
+
+#EXTINF:-1 tvg-id="AdultSwim(English).ca" tvg-name="Adult Swim" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/adult-swim-us.png" group-title="USA (DADDY LIVE)" ,Adult Swim
+https://webhdrunns.mizhls.ru/lb/premium295/index.m3u8
+
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXS TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/axs-tv-us.png" group-title="USA (DADDY LIVE)" ,AXS TV
+https://webhdrunns.mizhls.ru/lb/premium742/index.m3u8
+
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABCNY" tvg-logo="https://www.freepnglogos.com/uploads/abc-png-logo/abc-gold-media-kit-png-logo-17.png" group-title="USA (DADDY LIVE)" ,ABCNY
+https://webhdrunns.mizhls.ru/lb/premium766/index.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" group-title="USA (DADDY LIVE)" ,Boomerang
+https://webhdrunns.mizhls.ru/lb/premium648/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America (BBCA)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bbc-america-us.png" group-title="USA (DADDY LIVE)" ,BBC America (BBCA)
+https://webhdrunns.mizhls.ru/lb/premium305/index.m3u8
+
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="USA (DADDY LIVE)" ,BET
+https://webhdrunns.mizhls.ru/lb/premium306/index.m3u8
+
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="Bravo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" group-title="USA (DADDY LIVE)" ,Bravo
+https://webhdrunns.mizhls.ru/lb/premium307/index.m3u8
+
+#EXTINF:-1 tvg-id="COZITV.us" tvg-name="COZI TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cozi-tv-us.png" group-title="USA (DADDY LIVE)" ,COZI TV
+https://webhdrunns.mizhls.ru/lb/premium748/index.m3u8
+
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cmt-us.png" group-title="USA (DADDY LIVE)" ,CMT
+https://webhdrunns.mizhls.ru/lb/premium647/index.m3u8
+
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-logo-white-us.png" group-title="USA (DADDY LIVE)" ,CBS
+https://webhdrunns.mizhls.ru/lb/premium52/index.m3u8
+
+#EXTINF:-1 tvg-id="CW(WPSG).us2" tvg-name="CW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="USA (DADDY LIVE)" ,CW
+https://webhdrunns.mizhls.ru/lb/premium300/index.m3u8
+
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="USA (DADDY LIVE)" ,CNBC
+https://webhdrunns.mizhls.ru/lb/premium309/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png" group-title="USA (DADDY LIVE)" ,Comedy Central
+https://webhdrunns.mizhls.ru/lb/premium310/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="USA (DADDY LIVE)" ,Cartoon Network
+https://webhdrunns.mizhls.ru/lb/premium339/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="USA (DADDY LIVE)" ,CNN
+https://webhdrunns.mizhls.ru/lb/premium345/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="USA (DADDY LIVE)" ,Cinemax
+https://webhdrunns.mizhls.ru/lb/premium374/index.m3u8
+
+#EXTINF:-1 tvg-id="CleoTV.us" tvg-name="Cleo TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" group-title="USA (DADDY LIVE)" ,Cleo TV
+https://webhdrunns.mizhls.ru/lb/premium715/index.m3u8
+
+#EXTINF:-1 tvg-id="CrimeplusInvestigation(English).pr" tvg-name="Crime+ Investigation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/crime-and-investigation-uk.png?raw=true" group-title="USA (DADDY LIVE)" ,Crime+ Investigation
+https://webhdrunns.mizhls.ru/lb/premium669/index.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us" tvg-name="Comet" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comet-us.png" group-title="USA (DADDY LIVE)" ,Comet
+https://webhdrunns.mizhls.ru/lb/premium696/index.m3u8
+
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="Cooking Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cooking-channel-us.png" group-title="USA (DADDY LIVE)" ,Cooking Channel
+https://webhdrunns.mizhls.ru/lb/premium697/index.m3u8
+
+#EXTINF:-1 tvg-id="WCBSDT.us" tvg-name="CBSNY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/75851A45-4183-4103-B130-19864D1E84A3.png/revision/latest?cb=20200122220933" group-title="USA (DADDY LIVE)" ,CBSNY
+https://webhdrunns.mizhls.ru/lb/premium767/index.m3u8
+
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C SPAN 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" group-title="USA (DADDY LIVE)" ,C SPAN 1
+https://webhdrunns.mizhls.ru/lb/premium750/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="Discovery Life Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Discovery_Life_Channel_logo_official_png.png/revision/latest?cb=20150131181202" group-title="USA (DADDY LIVE)" ,Discovery Life Channel
+https://webhdrunns.mizhls.ru/lb/premium311/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" group-title="USA (DADDY LIVE)" ,Disney Channel
+https://webhdrunns.mizhls.ru/lb/premium312/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="USA (DADDY LIVE)" ,Discovery Channel
+https://webhdrunns.mizhls.ru/lb/premium313/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="Discovery Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png" group-title="USA (DADDY LIVE)" ,Discovery Family
+https://webhdrunns.mizhls.ru/lb/premium657/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title="USA (DADDY LIVE)" ,Disney XD
+https://webhdrunns.mizhls.ru/lb/premium314/index.m3u8
+
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/destination-america-us.png" group-title="USA (DADDY LIVE)" ,Destination America
+https://webhdrunns.mizhls.ru/lb/premium651/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png" group-title="USA (DADDY LIVE)" ,Disney JR
+https://webhdrunns.mizhls.ru/lb/premium652/index.m3u8
+
+#EXTINF:-1 tvg-id="EEntertainmentTelevision.us" tvg-name="E! Entertainment Television" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" group-title="USA (DADDY LIVE)" ,E! Entertainment Television
+https://webhdrunns.mizhls.ru/lb/premium315/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="Fox Business" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png" group-title="USA (DADDY LIVE)" ,Fox Business
+https://webhdrunns.mizhls.ru/lb/premium297/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXNet.us" tvg-name="FOX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="USA (DADDY LIVE)" ,FOX
+https://webhdrunns.mizhls.ru/lb/premium54/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png" group-title="USA (DADDY LIVE)" ,FX
+https://webhdrunns.mizhls.ru/lb/premium317/index.m3u8
+
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" group-title="USA (DADDY LIVE)" ,FXX
+https://webhdrunns.mizhls.ru/lb/premium298/index.m3u8
+
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png" group-title="USA (DADDY LIVE)" ,Freeform
+https://webhdrunns.mizhls.ru/lb/premium301/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="USA (DADDY LIVE)" ,Fox News
+https://webhdrunns.mizhls.ru/lb/premium347/index.m3u8
+
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" group-title="USA (DADDY LIVE)" ,FX Movie Channel
+https://webhdrunns.mizhls.ru/lb/premium381/index.m3u8
+
+#EXTINF:-1 tvg-id="FYI.us" tvg-name="FYI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png" group-title="USA (DADDY LIVE)" ,FYI
+https://webhdrunns.mizhls.ru/lb/premium665/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX(WNYW)NewYorkNY(src01).us" tvg-name="FOXNY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="USA (DADDY LIVE)" ,FOXNY
+https://webhdrunns.mizhls.ru/lb/premium768/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png" group-title="USA (DADDY LIVE)" ,Fox Weather Channel
+https://webhdrunns.mizhls.ru/lb/premium775/index.m3u8
+
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="Game Show Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/game-show-network-us.png" group-title="USA (DADDY LIVE)" ,Game Show Network
+https://webhdrunns.mizhls.ru/lb/premium319/index.m3u8
+
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/grit-us.png" group-title="USA (DADDY LIVE)" ,Grit Channel
+https://webhdrunns.mizhls.ru/lb/premium752/index.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="The Hallmark Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="USA (DADDY LIVE)" ,The Hallmark Channel
+https://webhdrunns.mizhls.ru/lb/premium320/index.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Movies & Mysterie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-mystery-us.png" group-title="USA (DADDY LIVE)" ,Hallmark Movies & Mysterie
+https://webhdrunns.mizhls.ru/lb/premium296/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="USA (DADDY LIVE)" ,HBO
+https://webhdrunns.mizhls.ru/lb/premium321/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" group-title="USA (DADDY LIVE)" ,HBO2
+https://webhdrunns.mizhls.ru/lb/premium689/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" group-title="USA (DADDY LIVE)" ,HBO Comedy
+https://webhdrunns.mizhls.ru/lb/premium690/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" group-title="USA (DADDY LIVE)" ,HBO Family
+https://webhdrunns.mizhls.ru/lb/premium691/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="USA (DADDY LIVE)" ,HBO Signature
+https://webhdrunns.mizhls.ru/lb/premium693/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" group-title="USA (DADDY LIVE)" ,HBO Zone
+https://webhdrunns.mizhls.ru/lb/premium694/index.m3u8
+
+#EXTINF:-1 tvg-id="History.us" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="USA (DADDY LIVE)" ,History
+https://webhdrunns.mizhls.ru/lb/premium322/index.m3u8
+
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="Headline News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hln-us.png" group-title="USA (DADDY LIVE)" ,Headline News
+https://webhdrunns.mizhls.ru/lb/premium323/index.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" group-title="USA (DADDY LIVE)" ,HGTV
+https://webhdrunns.mizhls.ru/lb/premium382/index.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery (ID)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/investigation-discovery-us.png" group-title="USA (DADDY LIVE)" ,Investigation Discovery (ID)
+https://webhdrunns.mizhls.ru/lb/premium324/index.m3u8
+
+#EXTINF:-1 tvg-id="IONTelevision.us" tvg-name="ION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/ion-television-us.png" group-title="USA (DADDY LIVE)" ,ION
+https://webhdrunns.mizhls.ru/lb/premium325/index.m3u8
+
+#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/ifc-us.png" group-title="USA (DADDY LIVE)" ,IFC TV
+https://webhdrunns.mizhls.ru/lb/premium656/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="USA (DADDY LIVE)" ,Lifetime Network
+https://webhdrunns.mizhls.ru/lb/premium326/index.m3u8
+
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="Lifetime Movies Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LMN_logo_2016.svg/1200px-LMN_logo_2016.svg.png" group-title="USA (DADDY LIVE)" ,Lifetime Movies Network
+https://webhdrunns.mizhls.ru/lb/premium389/index.m3u8
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-alt-us.png" group-title="USA (DADDY LIVE)" ,MSNBC
+https://webhdrunns.mizhls.ru/lb/premium327/index.m3u8
+
+#EXTINF:-1 tvg-id="MagnoliaNetwork.us" tvg-name="Magnolia Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/magnolia-network-us.png" group-title="USA (DADDY LIVE)" ,Magnolia Network
+https://webhdrunns.mizhls.ru/lb/premium299/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png" group-title="USA (DADDY LIVE)" ,MTV
+https://webhdrunns.mizhls.ru/lb/premium371/index.m3u8
+
+#EXTINF:-1 tvg-id="MAVTVMotorsportsNetwork.us" tvg-name="MAVTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowwKlIECbPIzGyK6WcOyg7FRXPP_7ips1MhqsUEk6&s" group-title="USA (DADDY LIVE)" ,MAVTV
+https://webhdrunns.mizhls.ru/lb/premium646/index.m3u8
+
+#EXTINF:-1 tvg-id="WWORTVChannel9(LocalNewYork).us" tvg-name="MY9TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/640px-WWOR_NewJersey.svg.png" group-title="USA (DADDY LIVE)" ,MY9TV
+https://webhdrunns.mizhls.ru/lb/premium654/index.m3u8
+
+#EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="Motor Trend" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" group-title="USA (DADDY LIVE)" ,Motor Trend
+https://webhdrunns.mizhls.ru/lb/premium661/index.m3u8
+
+#EXTINF:-1 tvg-id="MeTVNetwork.us" tvg-name="METV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/me-tv-us.png" group-title="USA (DADDY LIVE)" ,METV
+https://webhdrunns.mizhls.ru/lb/premium662/index.m3u8
+
+#EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png" group-title="USA (DADDY LIVE)" ,NBC
+https://webhdrunns.mizhls.ru/lb/premium53/index.m3u8
+
+#EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBCNY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/2077px-NBC_logo.svg.png" group-title="USA (DADDY LIVE)" ,NBCNY
+https://webhdrunns.mizhls.ru/lb/premium769/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic (NGC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/national-geographic-us.png" group-title="USA (DADDY LIVE)" ,National Geographic (NGC)
+https://webhdrunns.mizhls.ru/lb/premium328/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="USA (DADDY LIVE)" ,NICK JR
+https://webhdrunns.mizhls.ru/lb/premium329/index.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="NICK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png" group-title="USA (DADDY LIVE)" ,NICK
+https://webhdrunns.mizhls.ru/lb/premium330/index.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="USA (DADDY LIVE)" ,Nicktoons
+https://webhdrunns.mizhls.ru/lb/premium649/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="Newsmax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/newsmax-tv-us.png" group-title="USA (DADDY LIVE)" ,Newsmax
+https://webhdrunns.mizhls.ru/lb/premium613/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png" group-title="USA (DADDY LIVE)" ,Nat Geo Wild
+https://webhdrunns.mizhls.ru/lb/premium745/index.m3u8
+
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="Oprah Winfrey Network (OWN)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/oprah-winfrey-network-us.png" group-title="USA (DADDY LIVE)" ,Oprah Winfrey Network (OWN)
+https://webhdrunns.mizhls.ru/lb/premium331/index.m3u8
+
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen True Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-true-crime-us.png" group-title="USA (DADDY LIVE)" ,Oxygen True Crime
+https://webhdrunns.mizhls.ru/lb/premium332/index.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="USA (DADDY LIVE)" ,Paramount Network
+https://webhdrunns.mizhls.ru/lb/premium334/index.m3u8
+
+#EXTINF:-1 tvg-id="POP.us" tvg-name="POP TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/pop-us.png" group-title="USA (DADDY LIVE)" ,POP TV
+https://webhdrunns.mizhls.ru/lb/premium653/index.m3u8
+
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="Reelz Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/reelz-us.png" group-title="USA (DADDY LIVE)" ,Reelz Channel
+https://webhdrunns.mizhls.ru/lb/premium293/index.m3u8
+
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sec-network-us.png" group-title="USA (DADDY LIVE)" ,SEC Network
+https://webhdrunns.mizhls.ru/lb/premium385/index.m3u8
+
+#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="Science Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/discovery-science-us.png" group-title="USA (DADDY LIVE)" ,Science Channel
+https://webhdrunns.mizhls.ru/lb/premium294/index.m3u8
+
+#EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" group-title="USA (DADDY LIVE)" ,Showtime
+https://webhdrunns.mizhls.ru/lb/premium333/index.m3u8
+
+#EXTINF:-1 tvg-id="SHOxBET.us" tvg-name="SHOxBET" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sho-bet-us.png?raw=true" group-title="USA (DADDY LIVE)" ,SHOxBET
+https://webhdrunns.mizhls.ru/lb/premium685/index.m3u8
+
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title="USA (DADDY LIVE)" ,Starz
+https://webhdrunns.mizhls.ru/lb/premium335/index.m3u8
+
+#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png" group-title="USA (DADDY LIVE)" ,SYFY
+https://webhdrunns.mizhls.ru/lb/premium373/index.m3u8
+
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="Sundance TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-tv-us.png" group-title="USA (DADDY LIVE)" ,Sundance TV
+https://webhdrunns.mizhls.ru/lb/premium658/index.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoTelevisionNetwork(Spanish).us" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" group-title="USA (DADDY LIVE)" ,Telemundo
+https://webhdrunns.mizhls.ru/lb/premium131/index.m3u8
+
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" group-title="USA (DADDY LIVE)" ,TBS
+https://webhdrunns.mizhls.ru/lb/premium336/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png" group-title="USA (DADDY LIVE)" ,TLC
+https://webhdrunns.mizhls.ru/lb/premium337/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="USA (DADDY LIVE)" ,TNT
+https://webhdrunns.mizhls.ru/lb/premium338/index.m3u8
+
+#EXTINF:-1 tvg-id="TheTravelChannel.us" tvg-name="Travel Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/travel-channel-us.png" group-title="USA (DADDY LIVE)" ,Travel Channel
+https://webhdrunns.mizhls.ru/lb/premium340/index.m3u8
+
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="TruTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/tru-tv-us.png" group-title="USA (DADDY LIVE)" ,TruTV
+https://webhdrunns.mizhls.ru/lb/premium341/index.m3u8
+
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TVLAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="USA (DADDY LIVE)" ,TVLAND
+https://webhdrunns.mizhls.ru/lb/premium342/index.m3u8
+
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tcm-us.png" group-title="USA (DADDY LIVE)" ,TCM
+https://webhdrunns.mizhls.ru/lb/premium644/index.m3u8
+
+#EXTINF:-1 tvg-id="TheMovieChannel.us" tvg-name="TMC Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png" group-title="USA (DADDY LIVE)" ,TMC Channel
+https://webhdrunns.mizhls.ru/lb/premium698/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="The Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="USA (DADDY LIVE)" ,The Food Network
+https://webhdrunns.mizhls.ru/lb/premium384/index.m3u8
+
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA (DADDY LIVE)" ,The Weather Channel
+https://webhdrunns.mizhls.ru/lb/premium394/index.m3u8
+
+#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" group-title="USA (DADDY LIVE)" ,TeenNick
+https://webhdrunns.mizhls.ru/lb/premium650/index.m3u8
+
+#EXTINF:-1 tvg-id="TVONE.us" tvg-name="TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png" group-title="USA (DADDY LIVE)" ,TV ONE
+https://webhdrunns.mizhls.ru/lb/premium660/index.m3u8
+
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/usa-us.png" group-title="USA (DADDY LIVE)" ,USA Network
+https://webhdrunns.mizhls.ru/lb/premium343/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="Universal Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png" group-title="USA (DADDY LIVE)" ,Universal Kids
+https://webhdrunns.mizhls.ru/lb/premium668/index.m3u8
+
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png" group-title="USA (DADDY LIVE)" ,Univision
+https://webhdrunns.mizhls.ru/lb/premium132/index.m3u8
+
+#EXTINF:-1 tvg-id="UniMas(Spanish).us" tvg-name="Unimas" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/unimas-us.png" group-title="USA (DADDY LIVE)" ,Unimas
+https://webhdrunns.mizhls.ru/lb/premium133/index.m3u8
+
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vh1-us.png" group-title="USA (DADDY LIVE)" ,VH1
+https://webhdrunns.mizhls.ru/lb/premium344/index.m3u8
+
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="VICE TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" group-title="USA (DADDY LIVE)" ,VICE TV
+https://webhdrunns.mizhls.ru/lb/premium659/index.m3u8
+
+#EXTINF:-1 tvg-id="WEtv.us" tvg-name="WETV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/we-tv-us.png" group-title="USA (DADDY LIVE)" ,WETV
+https://webhdrunns.mizhls.ru/lb/premium655/index.m3u8
+
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/acc-network-us.png" group-title="SPORTS (DADDY LIVE)" ,ACC Network
+https://webhdrunns.mizhls.ru/lb/premium664/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="BeIN SPORTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" group-title="SPORTS (DADDY LIVE)" ,BeIN SPORTS
+https://webhdrunns.mizhls.ru/lb/premium425/index.m3u8
+
+#EXTINF:-1 tvg-id="beINSportsEnEspanol(Spanish).us" tvg-name="beIN SPORTS en Espanol" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-espanol-us.png" group-title="SPORTS (DADDY LIVE)" ,beIN SPORTS en Espanol
+https://webhdrunns.mizhls.ru/lb/premium372/index.m3u8
+
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="BIG TEN Network (BTN)" tvg-logo="https://btn.com/wp-content/uploads/2022/01/share-image.png" group-title="SPORTS (DADDY LIVE)" ,BIG TEN Network (BTN)
+https://webhdrunns.mizhls.ru/lb/premium397/index.m3u8
+
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network (CBSSN)" tvg-logo="https://pbs.twimg.com/profile_images/1356268043941380099/QHq2W42n_400x400.jpg" group-title="SPORTS (DADDY LIVE)" ,CBS Sports Network (CBSSN)
+https://webhdrunns.mizhls.ru/lb/premium308/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="SPORTS (DADDY LIVE)" ,ESPN
+https://webhdrunns.mizhls.ru/lb/premium44/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="SPORTS (DADDY LIVE)" ,ESPN 2
+https://webhdrunns.mizhls.ru/lb/premium45/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="SPORTS (DADDY LIVE)" ,ESPNU
+https://webhdrunns.mizhls.ru/lb/premium316/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport1UnitedKingdom(src01).uk" tvg-name="EuroSport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" group-title="SPORTS (DADDY LIVE)" ,EuroSport 1
+https://webhdrunns.mizhls.ru/lb/premium41/index.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport2UnitedKingdom(src01).uk" tvg-name="EuroSport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" group-title="SPORTS (DADDY LIVE)" ,EuroSport 2
+https://webhdrunns.mizhls.ru/lb/premium42/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="SPORTS (DADDY LIVE)" ,ESPN Deportes
+https://webhdrunns.mizhls.ru/lb/premium375/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPNews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnews-us.png" group-title="SPORTS (DADDY LIVE)" ,ESPNews
+https://webhdrunns.mizhls.ru/lb/premium288/index.m3u8
+
+#EXTINF:-1 tvg-id="FS1.us" tvg-name="Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="SPORTS (DADDY LIVE)" ,Fox Sports 1
+https://webhdrunns.mizhls.ru/lb/premium39/index.m3u8
+
+#EXTINF:-1 tvg-id="FS2(Spanish).us" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="SPORTS (DADDY LIVE)" ,Fox Sports 2
+https://webhdrunns.mizhls.ru/lb/premium758/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSoccerPlus.us" tvg-name="FOX Soccer Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" group-title="SPORTS (DADDY LIVE)" ,FOX Soccer Plus
+https://webhdrunns.mizhls.ru/lb/premium756/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXCRICKET(src04).au" tvg-name="Fox Cricket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="SPORTS (DADDY LIVE)" ,Fox Cricket
+https://webhdrunns.mizhls.ru/lb/premium369/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxDeportes(Spanish).us" tvg-name="FOX Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/800px-FOX_Deportes_logo.svg.png" group-title="SPORTS (DADDY LIVE)" ,FOX Deportes
+https://webhdrunns.mizhls.ru/lb/premium643/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXLeague(src04).au" tvg-name="FOX Sports 502" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-league-502-au.png?raw=true" group-title="SPORTS (DADDY LIVE)" ,FOX Sports 502
+https://webhdrunns.mizhls.ru/lb/premium820/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports503(src04).au" tvg-name="FOX Sports 503" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-503-au.png?raw=true" group-title="SPORTS (DADDY LIVE)" ,FOX Sports 503
+https://webhdrunns.mizhls.ru/lb/premium821/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXFooty(src04).au" tvg-name="FOX Sports 504" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-footy-504-au.png?raw=true" group-title="SPORTS (DADDY LIVE)" ,FOX Sports 504
+https://webhdrunns.mizhls.ru/lb/premium822/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports505(src04).au" tvg-name="FOX Sports 505" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="SPORTS (DADDY LIVE)" ,FOX Sports 505
+https://webhdrunns.mizhls.ru/lb/premium823/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports506(src04).au" tvg-name="FOX Sports 506" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png/revision/latest?cb=20180916115509" group-title="SPORTS (DADDY LIVE)" ,FOX Sports 506
+https://webhdrunns.mizhls.ru/lb/premium824/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSportsMoreplus(src04).au" tvg-name="FOX Sports 507" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="SPORTS (DADDY LIVE)" ,FOX Sports 507
+https://webhdrunns.mizhls.ru/lb/premium825/index.m3u8
+
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="GOLF Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" group-title="SPORTS (DADDY LIVE)" ,GOLF Channel
+https://webhdrunns.mizhls.ru/lb/premium318/index.m3u8
+
+#EXTINF:-1 tvg-id="LiverpoolTV(src01).uk" tvg-name="Liverpool TV (LFC TV)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/lfctv-uk.png" group-title="SPORTS (DADDY LIVE)" ,Liverpool TV (LFC TV)
+https://webhdrunns.mizhls.ru/lb/premium826/index.m3u8
+
+#EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-name="Longhorn Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/longhorn-network-us.png" group-title="SPORTS (DADDY LIVE)" ,Longhorn Network
+https://webhdrunns.mizhls.ru/lb/premium667/index.m3u8
+
+#EXTINF:-1 tvg-id="MSGZone1.us" tvg-name="MSG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msg-us.png" group-title="SPORTS (DADDY LIVE)" ,MSG
+https://webhdrunns.mizhls.ru/lb/premium765/index.m3u8
+
+#EXTINF:-1 tvg-id="MarqueeSportsNetwork.us" tvg-name="Marquee Sports Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png" group-title="SPORTS (DADDY LIVE)" ,Marquee Sports Network
+https://webhdrunns.mizhls.ru/lb/premium770/index.m3u8
+
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png" group-title="SPORTS (DADDY LIVE)" ,MLB Network
+https://webhdrunns.mizhls.ru/lb/premium399/index.m3u8
+
+#EXTINF:-1 tvg-id="MASN.us" tvg-name="MASN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/masn-us.png" group-title="SPORTS (DADDY LIVE)" ,MASN
+https://webhdrunns.mizhls.ru/lb/premium829/index.m3u8
+
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" group-title="SPORTS (DADDY LIVE)" ,NHL Network
+https://webhdrunns.mizhls.ru/lb/premium663/index.m3u8
+
+#EXTINF:-1 tvg-id="NewEnglandSportsNetwork.us" tvg-name="NESN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nesn-us.png" group-title="SPORTS (DADDY LIVE)" ,NESN
+https://webhdrunns.mizhls.ru/lb/premium762/index.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" group-title="SPORTS (DADDY LIVE)" ,NBA TV
+https://webhdrunns.mizhls.ru/lb/premium404/index.m3u8
+
+#EXTINF:-1 tvg-id="NBCSportsChicago.us" tvg-name="NBC Sports Chicago" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-sports-chicago-us.png" group-title="SPORTS (DADDY LIVE)" ,NBC Sports Chicago
+https://webhdrunns.mizhls.ru/lb/premium776/index.m3u8
+
+#EXTINF:-1 tvg-id="9025" tvg-name="NBC Sports Philadelphia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" group-title="SPORTS (DADDY LIVE)" ,NBC Sports Philadelphia
+https://webhdrunns.mizhls.ru/lb/premium777/index.m3u8
+
+#EXTINF:-1 tvg-id="8862" tvg-name="NBC Sports Washington" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-washington-us.png?raw=true" group-title="SPORTS (DADDY LIVE)" ,NBC Sports Washington
+https://webhdrunns.mizhls.ru/lb/premium778/index.m3u8
+
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="SPORTS (DADDY LIVE)" ,NFL Network
+https://webhdrunns.mizhls.ru/lb/premium405/index.m3u8
+
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="SPORTS (DADDY LIVE)" ,NBC Sports Bay Area
+https://webhdrunns.mizhls.ru/lb/premium753/index.m3u8
+
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="NBC Sports Boston" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" group-title="SPORTS (DADDY LIVE)" ,NBC Sports Boston
+https://webhdrunns.mizhls.ru/lb/premium754/index.m3u8
+
+#EXTINF:-1 tvg-id="NBCSportsCaliforniaSAT.us" tvg-name="NBC Sportslifornia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" group-title="SPORTS (DADDY LIVE)" ,NBC Sports California
+https://webhdrunns.mizhls.ru/lb/premium755/index.m3u8
+
+#EXTINF:-1 tvg-id="RacingTV.uk" tvg-name="Racing Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/racing-tv-uk.png" group-title="SPORTS (DADDY LIVE)" ,Racing Tv
+https://webhdrunns.mizhls.ru/lb/premium555/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySpFball(src01).uk" tvg-name="Sky Sports Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="SPORTS (DADDY LIVE)" ,Sky Sports Football
+https://webhdrunns.mizhls.ru/lb/premium35/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySpArena(src01).uk" tvg-name="Sky Sports Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-arena-uk.png" group-title="SPORTS (DADDY LIVE)" ,Sky Sports Arena
+https://webhdrunns.mizhls.ru/lb/premium36/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsAction(src01).uk" tvg-name="Sky Sports Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png" group-title="SPORTS (DADDY LIVE)" ,Sky Sports Action
+https://webhdrunns.mizhls.ru/lb/premium37/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySpMainEv(src01).uk" tvg-name="Sky Sports Main Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="SPORTS (DADDY LIVE)" ,Sky Sports Main Event
+https://webhdrunns.mizhls.ru/lb/premium38/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySPPL(src01).uk" tvg-name="Sky sports Premier League" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" group-title="SPORTS (DADDY LIVE)" ,Sky sports Premier League
+https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8
+
+#EXTINF:-1 tvg-id="SkysportsF1(src01).uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS (DADDY LIVE)" ,Sky Sports F1
+https://webhdrunns.mizhls.ru/lb/premium60/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsCricket(src01).uk" tvg-name="Sky Sports Cricket" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" group-title="SPORTS (DADDY LIVE)" ,Sky Sports Cricket
+https://webhdrunns.mizhls.ru/lb/premium65/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyTheOpen(src01).uk" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="SPORTS (DADDY LIVE)" ,Sky Sports Golf
+https://webhdrunns.mizhls.ru/lb/premium70/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsNews(src01).uk" tvg-name="Sky Sports News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="SPORTS (DADDY LIVE)" ,Sky Sports News
+https://webhdrunns.mizhls.ru/lb/premium366/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="Sky Sports Racing" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-racing-uk.png?raw=true" group-title="SPORTS (DADDY LIVE)" ,Sky Sports Racing
+https://webhdrunns.mizhls.ru/lb/premium554/index.m3u8
+
+#EXTINF:-1 tvg-id="SportsNetNewYork.us" tvg-name="SportsNet New York (SNY)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png" group-title="SPORTS (DADDY LIVE)" ,SportsNet New York (SNY)
+https://webhdrunns.mizhls.ru/lb/premium759/index.m3u8
+
+#EXTINF:-1 tvg-id="SportsnetOntario(English).ca" tvg-name="Sportsnet Ontario" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Rogers_Sportsnet_Ontario_thumb.png/revision/latest?cb=20160514183500" group-title="SPORTS (DADDY LIVE)" ,Sportsnet Ontario
+https://webhdrunns.mizhls.ru/lb/premium406/index.m3u8
+
+#EXTINF:-1 tvg-id="SportsnetOne(English).ca" tvg-name="Sportsnet One" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png" group-title="SPORTS (DADDY LIVE)" ,Sportsnet One
+https://webhdrunns.mizhls.ru/lb/premium411/index.m3u8
+
+#EXTINF:-1 tvg-id="Sportsnet(West)(English).ca" tvg-name="Sportsnet West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Rogers_sportsnet_west.png/revision/latest?cb=20120212022740" group-title="SPORTS (DADDY LIVE)" ,Sportsnet West
+https://webhdrunns.mizhls.ru/lb/premium407/index.m3u8
+
+#EXTINF:-1 tvg-id="SportsNetNewYork.us" tvg-name="Sportsnet East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Rogers_sportsnet_east_thumb.png/revision/latest?cb=20160514183643" group-title="SPORTS (DADDY LIVE)" ,Sportsnet East
+https://webhdrunns.mizhls.ru/lb/premium408/index.m3u8
+
+#EXTINF:-1 tvg-id="Sportsnet360(English).ca" tvg-name="Sportsnet 360" tvg-logo="https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png" group-title="SPORTS (DADDY LIVE)" ,Sportsnet 360
+https://webhdrunns.mizhls.ru/lb/premium409/index.m3u8
+
+#EXTINF:-1 tvg-id="SportsnetWorld(English).ca" tvg-name="Sportsnet World" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68946_h15_aa.png" group-title="SPORTS (DADDY LIVE)" ,Sportsnet World
+https://webhdrunns.mizhls.ru/lb/premium410/index.m3u8
+
+#EXTINF:-1 tvg-id="SpectrumSportsNetLA.us" tvg-name="Spectrum Sportsnet LA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-la-us.png" group-title="SPORTS (DADDY LIVE)" ,Spectrum Sportsnet LA
+https://webhdrunns.mizhls.ru/lb/premium764/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSport1(src01).uk" tvg-name="BT Sport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-1-uk.png" group-title="SPORTS (DADDY LIVE)" ,BT Sport 1
+https://webhdrunns.mizhls.ru/lb/premium31/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSport2(src01).uk" tvg-name="BT Sport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-2-uk.png" group-title="SPORTS (DADDY LIVE)" ,BT Sport 2
+https://webhdrunns.mizhls.ru/lb/premium32/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSport3(src01).uk" tvg-name="BT Sport 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-3-uk.png" group-title="SPORTS (DADDY LIVE)" ,BT Sport 3
+https://webhdrunns.mizhls.ru/lb/premium33/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSport4(src01).uk" tvg-name="BT Sport 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-4-uk.png" group-title="SPORTS (DADDY LIVE)" ,BT Sport 4
+https://webhdrunns.mizhls.ru/lb/premium34/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN1(English).ca" tvg-name="TSN1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="SPORTS (DADDY LIVE)" ,TSN1
+https://webhdrunns.mizhls.ru/lb/premium111/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN2(English).ca" tvg-name="TSN2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" group-title="SPORTS (DADDY LIVE)" ,TSN2
+https://webhdrunns.mizhls.ru/lb/premium112/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN3(English).ca" tvg-name="TSN3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90119_h15_aa.png" group-title="SPORTS (DADDY LIVE)" ,TSN3
+https://webhdrunns.mizhls.ru/lb/premium113/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN4(English).ca" tvg-name="TSN4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" group-title="SPORTS (DADDY LIVE)" ,TSN4
+https://webhdrunns.mizhls.ru/lb/premium114/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN5(English).ca" tvg-name="TSN5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" group-title="SPORTS (DADDY LIVE)" ,TSN5
+https://webhdrunns.mizhls.ru/lb/premium115/index.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png" group-title="SPORTS (DADDY LIVE)" ,Tennis Channel
+https://webhdrunns.mizhls.ru/lb/premium40/index.m3u8
+
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png" group-title="SPORTS (DADDY LIVE)" ,TUDN
+https://webhdrunns.mizhls.ru/lb/premium66/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 1" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" ,Tennis+ 1
+https://webhdrunns.mizhls.ru/lb/premium700/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 2" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" ,Tennis+ 2
+https://webhdrunns.mizhls.ru/lb/premium701/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 3" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" ,Tennis+ 3
+https://webhdrunns.mizhls.ru/lb/premium702/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 4" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" ,Tennis+ 4
+https://webhdrunns.mizhls.ru/lb/premium703/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 5" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" ,Tennis+ 5
+https://webhdrunns.mizhls.ru/lb/premium704/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 6" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" ,Tennis+ 6
+https://webhdrunns.mizhls.ru/lb/premium705/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 7" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" ,Tennis+ 7
+https://webhdrunns.mizhls.ru/lb/premium706/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 8" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" ,Tennis+ 8
+https://webhdrunns.mizhls.ru/lb/premium707/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 9" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" ,Tennis+ 9
+https://webhdrunns.mizhls.ru/lb/premium708/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 10" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" ,Tennis+ 10
+https://webhdrunns.mizhls.ru/lb/premium709/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 11" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" ,Tennis+ 11
+https://webhdrunns.mizhls.ru/lb/premium710/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 12" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" ,Tennis+ 12
+https://webhdrunns.mizhls.ru/lb/premium711/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 13" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" ,Tennis+ 13
+https://webhdrunns.mizhls.ru/lb/premium712/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 14" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" ,Tennis+ 14
+https://webhdrunns.mizhls.ru/lb/premium713/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+ 15" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" group-title="SPORTS (DADDY LIVE)" ,Tennis+ 15
+https://webhdrunns.mizhls.ru/lb/premium714/index.m3u8
+
+#EXTINF:-1 tvg-id="Viaplay1(src01).uk" tvg-name="Viaplay Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-1-uk.png" group-title="SPORTS (DADDY LIVE)" ,Viaplay Sports 1
+https://webhdrunns.mizhls.ru/lb/premium451/index.m3u8
+
+#EXTINF:-1 tvg-id="Viaplay2(src01).uk" tvg-name="Viaplay Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/viaplay-sports-2-uk.png" group-title="SPORTS (DADDY LIVE)" ,Viaplay Sports 2
+https://webhdrunns.mizhls.ru/lb/premium550/index.m3u8
+
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="Willow Cricket" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS (DADDY LIVE)" ,Willow Cricket
+https://webhdrunns.mizhls.ru/lb/premium346/index.m3u8
+
+#EXTINF:-1 tvg-id="WillowXtra.us" tvg-name="Willow XTRA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/willow-xtra-us.png" group-title="SPORTS (DADDY LIVE)" ,Willow XTRA
+https://webhdrunns.mizhls.ru/lb/premium598/index.m3u8
+
+#EXTINF:-1 tvg-id="WWENetwork(English).ca" tvg-name="WWE Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" group-title="SPORTS (DADDY LIVE)" ,WWE Network
+https://webhdrunns.mizhls.ru/lb/premium376/index.m3u8
+
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="YES Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/yes-network-us.png" group-title="SPORTS (DADDY LIVE)" ,YES Network
+https://webhdrunns.mizhls.ru/lb/premium763/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCWorldNews(MiddleEast)(src01).uk" tvg-name="BBC News Channel HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="UK (DADDY LIVE)" ,BBC News Channel HD
+https://webhdrunns.mizhls.ru/lb/premium349/index.m3u8
+
+#EXTINF:-1 tvg-id="BBC1(East)(src01).uk" tvg-name="BBC One" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="UK (DADDY LIVE)" ,BBC One
+https://webhdrunns.mizhls.ru/lb/premium356/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="UK (DADDY LIVE)" ,BBC Two
+https://webhdrunns.mizhls.ru/lb/premium357/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-name="BBC Three" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" group-title="UK (DADDY LIVE)" ,BBC Three
+https://webhdrunns.mizhls.ru/lb/premium358/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCFour(src01).uk" tvg-name="BBC Four" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" group-title="UK (DADDY LIVE)" channel-number="446",BBC Four
+https://webhdrunns.mizhls.ru/lb/premium359/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel4(src01).uk" tvg-name="Channel 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png" group-title="UK (DADDY LIVE)" ,Channel 4
+https://webhdrunns.mizhls.ru/lb/premium354/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel5(src01).uk" tvg-name="Channel 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" group-title="UK (DADDY LIVE)" ,Channel 5
+https://webhdrunns.mizhls.ru/lb/premium355/index.m3u8
+
+#EXTINF:-1 tvg-id="Dave(src01).uk" tvg-name="Dave" tvg-logo="https://res.cloudinary.com/uktv/image/upload/v1390389612/nnjpehbj2a2qvyxoda0z.jpg" group-title="UK (DADDY LIVE)" ,Dave
+https://webhdrunns.mizhls.ru/lb/premium348/index.m3u8
+
+#EXTINF:-1 tvg-id="E4(src01).uk" tvg-name="E4 Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/E4_Logo.png" group-title="UK (DADDY LIVE)" ,E4 Channel
+https://webhdrunns.mizhls.ru/lb/premium363/index.m3u8
+
+#EXTINF:-1 tvg-id="Film4(src01).uk" tvg-name="Film4" tvg-logo="https://cdn.comedy.co.uk/images/channels/film4.jpg" group-title="UK (DADDY LIVE)" ,Film4
+https://webhdrunns.mizhls.ru/lb/premium688/index.m3u8
+
+#EXTINF:-1 tvg-id="GOLD(src01).uk" tvg-name="Gold" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gold-uk.png" group-title="UK (DADDY LIVE)" ,Gold
+https://webhdrunns.mizhls.ru/lb/premium687/index.m3u8
+
+#EXTINF:-1 tvg-id="ITV1(src01).uk" tvg-name="ITV 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" group-title="UK (DADDY LIVE)" ,ITV 1
+https://webhdrunns.mizhls.ru/lb/premium350/index.m3u8
+
+#EXTINF:-1 tvg-id="ITV2(src01).uk" tvg-name="ITV 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png" group-title="UK (DADDY LIVE)" ,ITV 2
+https://webhdrunns.mizhls.ru/lb/premium351/index.m3u8
+
+#EXTINF:-1 tvg-id="ITV3(src01).uk" tvg-name="ITV 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-uk.png" group-title="UK (DADDY LIVE)" ,ITV 3
+https://webhdrunns.mizhls.ru/lb/premium352/index.m3u8
+
+#EXTINF:-1 tvg-id="ITV4(src01).uk" tvg-name="ITV 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png" group-title="UK (DADDY LIVE)" streamId="449" channel-number="323,ITV 4
+https://webhdrunns.mizhls.ru/lb/premium353/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV(src01).uk" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-uk.png" group-title="UK (DADDY LIVE)" ,MTV
+https://webhdrunns.mizhls.ru/lb/premium367/index.m3u8
+
+#EXTINF:-1 tvg-id="MUTV(src01).uk" tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mutv-uk.png" group-title="UK (DADDY LIVE)" ,MUTV
+https://webhdrunns.mizhls.ru/lb/premium377/index.m3u8
+
+#EXTINF:-1 tvg-id="RTEOne(src01).ie" tvg-name="RTE 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/RTE_One_Stacked.svg/revision/latest/scale-to-width-down/250?cb=20210310105314" group-title="UK (DADDY LIVE)" ,RTE 1
+https://webhdrunns.mizhls.ru/lb/premium364/index.m3u8
+
+#EXTINF:-1 tvg-id="RTETwo(src01).ie" tvg-name="RTE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1200px-RT%C3%892_logo.svg.png" group-title="UK (DADDY LIVE)" ,RTE 2
+https://webhdrunns.mizhls.ru/lb/premium365/index.m3u8
+
+#EXTINF:-1 tvg-id="S4C(src01).uk" tvg-name="S4C" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png" group-title="UK (DADDY LIVE)" ,S4C
+https://webhdrunns.mizhls.ru/lb/premium670/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaPremiere(src01).uk" tvg-name="Sky Cinema Premiere" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-uk.png" group-title="UK (DADDY LIVE)" ,Sky Cinema Premiere
+https://webhdrunns.mizhls.ru/lb/premium671/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-name="Sky Cinema Select" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-select-uk.png" group-title="UK (DADDY LIVE)" ,Sky Cinema Select
+https://webhdrunns.mizhls.ru/lb/premium672/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaHits(src01).uk" tvg-name="Sky Cinema Hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-hits-uk.png" group-title="UK (DADDY LIVE)" ,Sky Cinema Hits
+https://webhdrunns.mizhls.ru/lb/premium673/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyGreats(src01).uk" tvg-name="Sky Cinema Greats" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-greats-uk.png" group-title="UK (DADDY LIVE)" ,Sky Cinema Greats
+https://webhdrunns.mizhls.ru/lb/premium674/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyAnimation(src01).uk" tvg-name="Sky Cinema Animation" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-animation-uk.png" group-title="UK (DADDY LIVE)" ,Sky Cinema Animation
+https://webhdrunns.mizhls.ru/lb/premium675/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaFamily(src01).uk" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-family-uk.png" group-title="UK (DADDY LIVE)" ,Sky Cinema Family
+https://webhdrunns.mizhls.ru/lb/premium676/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaAction(src01).uk" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-action-uk.png" group-title="UK (DADDY LIVE)" ,Sky Cinema Action
+https://webhdrunns.mizhls.ru/lb/premium677/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="Sky Cinema Drama" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-uk.png?raw=true" group-title="UK (DADDY LIVE)" ,Sky Cinema Drama
+https://webhdrunns.mizhls.ru/lb/premium680/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaThriller(src01).uk" tvg-name="Sky Cinema Thriller" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-thriller-uk.png" group-title="UK (DADDY LIVE)" ,Sky Cinema Thriller
+https://webhdrunns.mizhls.ru/lb/premium679/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCinemaScifiHorror(src01).uk" tvg-name="Sky Cinema Sci-Fi Horror" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png" group-title="UK (DADDY LIVE)" ,Sky Cinema Sci-Fi Horror
+https://webhdrunns.mizhls.ru/lb/premium681/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyShowcase(src01).uk" tvg-name="Sky Showcase" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-showcase-uk.png" group-title="UK (DADDY LIVE)" ,Sky Showcase
+https://webhdrunns.mizhls.ru/lb/premium682/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyArts1(src01).uk" tvg-name="Sky Arts" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-arts-uk.png" group-title="UK (DADDY LIVE)" ,Sky Arts
+https://webhdrunns.mizhls.ru/lb/premium683/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyComedy(src01).uk" tvg-name="Sky Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-comedy-uk.png" group-title="UK (DADDY LIVE)" ,Sky Comedy
+https://webhdrunns.mizhls.ru/lb/premium684/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyCrime(src01).uk" tvg-name="Sky Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-crime-uk.png" group-title="UK (DADDY LIVE)" ,Sky Crime
+https://webhdrunns.mizhls.ru/lb/premium685/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyHistory(src01).uk" tvg-name="Sky History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-history-uk.png" group-title="UK (DADDY LIVE)" ,Sky History
+https://webhdrunns.mizhls.ru/lb/premium686/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyWitness(src01).uk" tvg-name="Sky Witness HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-witness-uk.png" group-title="UK (DADDY LIVE)" ,Sky Witness HD
+https://webhdrunns.mizhls.ru/lb/premium361/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyAtlantic(src01).uk" tvg-name="Sky Atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/2560px-Sky_Atlantic_-_Logo_2020.svg.png" group-title="UK (DADDY LIVE)" ,Sky Atlantic
+https://webhdrunns.mizhls.ru/lb/premium362/index.m3u8
+
+#EXTINF:-1 tvg-id="CTVToronto(English).ca" tvg-name="CTV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png" group-title="Canada (DADDY LIVE)" ,CTV
+https://webhdrunns.mizhls.ru/lb/premium602/index.m3u8
+
+#EXTINF:-1 tvg-id="CTVTwoToronto(English).ca" tvg-name="CTV 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" group-title="Canada (DADDY LIVE)" ,CTV 2
+https://webhdrunns.mizhls.ru/lb/premium838/index.m3u8
+
+#EXTINF:-1 tvg-id="CityTv(English).ca" tvg-name="Citytv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/city-tv-ca.png" group-title="Canada (DADDY LIVE)" ,Citytv
+https://webhdrunns.mizhls.ru/lb/premium831/index.m3u8
+
+#EXTINF:-1 tvg-id="CBCToronto(English).ca" tvg-name="CBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-ca.png" group-title="Canada (DADDY LIVE)" ,CBC
+https://webhdrunns.mizhls.ru/lb/premium832/index.m3u8
+
+#EXTINF:-1 tvg-id="CBCToronto(English).ca" tvg-name="CBC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-ca.png" group-title="Canada (DADDY LIVE)" ,CBC
+https://webhdrunns.mizhls.ru/lb/premium699/index.m3u8
+
+#EXTINF:-1 tvg-id="GlobalToronto(English).ca" tvg-name="Global" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/global-ca.png" group-title="Canada (DADDY LIVE)" ,Global
+https://webhdrunns.mizhls.ru/lb/premium836/index.m3u8
+
+#EXTINF:-1 tvg-id="9244" tvg-name="Sky Sports MIX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png" group-title="SPORTS MISC (DADDY LIVE)" ,Sky Sports MIX
+https://webhdrunns.mizhls.ru/lb/premium557/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportTopEvent(src01).de" tvg-name="Sky Sport Top Event DE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-de.png" group-title="SPORTS MISC (DADDY LIVE)" ,Sky Sport Top Event DE
+https://webhdrunns.mizhls.ru/lb/premium556/index.m3u8
+
+#EXTINF:-1 tvg-id="8306" tvg-name="SuperSport Grandstand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-grandstand-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport Grandstand
+https://webhdrunns.mizhls.ru/lb/premium412/index.m3u8
+
+#EXTINF:-1 tvg-id="8220" tvg-name="SuperSport PSL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-psl-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport PSL
+https://webhdrunns.mizhls.ru/lb/premium413/index.m3u8
+
+#EXTINF:-1 tvg-id="50781" tvg-name="SuperSport Premier league" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-premier-league-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport Premier league
+https://webhdrunns.mizhls.ru/lb/premium414/index.m3u8
+
+#EXTINF:-1 tvg-id="8327" tvg-name="SuperSport LaLiga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-laliga-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport LaLiga
+https://webhdrunns.mizhls.ru/lb/premium415/index.m3u8
+
+#EXTINF:-1 tvg-id="8300" tvg-name="SuperSport Variety 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety1-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport Variety 1
+https://webhdrunns.mizhls.ru/lb/premium416/index.m3u8
+
+#EXTINF:-1 tvg-id="8258" tvg-name="SuperSport Variety 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety2-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport Variety 2
+https://webhdrunns.mizhls.ru/lb/premium417/index.m3u8
+
+#EXTINF:-1 tvg-id="8218" tvg-name="SuperSport Variety 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety3-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport Variety 3
+https://webhdrunns.mizhls.ru/lb/premium418/index.m3u8
+
+#EXTINF:-1 tvg-id="8259" tvg-name="SuperSport Variety 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety4-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport Variety 4
+https://webhdrunns.mizhls.ru/lb/premium419/index.m3u8
+
+#EXTINF:-1 tvg-id="8209" tvg-name="SuperSport Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-action-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport Action
+https://webhdrunns.mizhls.ru/lb/premium420/index.m3u8
+
+#EXTINF:-1 tvg-id="8233" tvg-name="SuperSport Rugby" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-rugby-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport Rugby
+https://webhdrunns.mizhls.ru/lb/premium421/index.m3u8
+
+#EXTINF:-1 tvg-id="8326" tvg-name="SuperSport Golf" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-golf-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport Golf
+https://webhdrunns.mizhls.ru/lb/premium422/index.m3u8
+
+#EXTINF:-1 tvg-id="8305" tvg-name="SuperSport Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-tennis-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport Tennis
+https://webhdrunns.mizhls.ru/lb/premium423/index.m3u8
+
+#EXTINF:-1 tvg-id="8331" tvg-name="SuperSport Motorsport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-motorsport-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport Motorsport
+https://webhdrunns.mizhls.ru/lb/premium424/index.m3u8
+
+#EXTINF:-1 tvg-id="8236" tvg-name="Supersport Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-football-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,Supersport Football
+https://webhdrunns.mizhls.ru/lb/premium56/index.m3u8
+
+#EXTINF:-1 tvg-id="8270" tvg-name="SuperSport Cricket" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-cricket-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport Cricket
+https://webhdrunns.mizhls.ru/lb/premium368/index.m3u8
+
+#EXTINF:-1 tvg-id="8228" tvg-name="SuperSport MaXimo 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-maximo1-za.png?raw=true" group-title="SPORTS MISC (DADDY LIVE)" ,SuperSport MaXimo 1
+https://webhdrunns.mizhls.ru/lb/premium572/index.m3u8

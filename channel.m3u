@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="USA (DADDY LIVE)" ,ABC
-https://webuit.mizhls.ru/lb/premium270/index.m3u8?%7Creferer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+https://webhdrunns.mizhls.ru/lb/premium51/index.m3u8
 
 #EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA (DADDY LIVE)" ,A&E
 https://webhdrunns.mizhls.ru/lb/premium302/index.m3u8
